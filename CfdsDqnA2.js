@@ -1,0 +1,1 @@
+var e=[`Lägg till`],t=[`Standardknapp`,`huvudknappen`,`länkknapp`,`Ikonknapp (.BtnC)`];export{e as js,t as pug};

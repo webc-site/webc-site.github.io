@@ -1,0 +1,1 @@
+var e={},t=[`Hau rel bidez kopiatutako testu zati bat da`,`Aurrizkiaren testua lehenespenez kopiatu da`];export{e as js,t as pug};

@@ -1,0 +1,4 @@
+var e={},t=[`Aşırı minimalizm`,`WebC.site, çalışma zamanı yükü olmayan saf, hafif ön uç bileşenleri oluşturmaya odaklanmaktadır.
+Modern js ve css özelliklerine dayanarak, rafine kodla sonsuz olanaklar sunar.`,`Yapay zeka çağında ön uç geliştirme için yeni bir paradigma`,`Otomatik kodlama için tasarlanmış bir geliştirme akışı olan yapay zekayı tamamen benimseyin.
+Kod kuralları zaman içinde iyileştirilir ve büyük dil modelinin sizin için maliyetleri düşürmesine ve verimliliği artırmasına olanak tanır.`,`Zarif görsel normlar`,`Görsel estetik tasarım, mükemmel mikro hareket efektlerini ve buzlu cam dokusunu içerir.
+Beyaz taban, basit ve saf, yüksek kaliteli bir uygulama etkileşimi deneyimi oluşturmanıza yardımcı olur.`];export{e as js,t as pug};

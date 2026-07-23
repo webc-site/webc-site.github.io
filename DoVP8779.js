@@ -1,0 +1,1 @@
+var e={},t=[`Targeta per defecte`,`Feu clic per anar a la pàgina de detalls`,`Activa la targeta`,`La targeta corresponent a la pàgina actual`];export{e as js,t as pug};

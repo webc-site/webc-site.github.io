@@ -1,0 +1,1 @@
+var e={},t=[`Standardkort`,`Klik for at gå til siden med detaljer`,`Aktiver kortet`,`Kortet, der svarer til den aktuelle side`];export{e as js,t as pug};

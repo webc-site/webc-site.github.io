@@ -1,0 +1,1 @@
+var e=[],t=[`apel`,`pisang`,`jeruk keprok`,`Apel merupakan buah umum yang kaya akan nutrisi.`,`Pisang merupakan buah lezat yang banyak ditanam di daerah tropis.`,`Jeruk berwarna cerah, berair dan manis, serta kaya vitamin C.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`awtomatiko`,`Kini usa ka tip sa bula`,`Wala`,`husto`,`Sa ubos`,`labaw`];export{e as js,t as pug};

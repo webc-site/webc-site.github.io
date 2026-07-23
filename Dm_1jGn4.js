@@ -1,0 +1,1 @@
+var e={},t=[`Barre de défilement virtuelle horizontale`,`Barre de défilement virtuelle verticale`];export{e as js,t as pug};

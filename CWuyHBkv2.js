@@ -1,0 +1,1 @@
+var e=[`Shtoni në`],t=[`Butoni i parazgjedhur`,`butoni kryesor`,`butoni i lidhjes`,`Butoni i ikonës (.BtnC)`];export{e as js,t as pug};

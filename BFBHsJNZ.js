@@ -1,0 +1,1 @@
+var e={},t=[`Vaikimisi kaart`,`Klõpsake üksikasjade lehele liikumiseks`,`Aktiveeri kaart`,`Praegusele lehele vastav kaart`];export{e as js,t as pug};

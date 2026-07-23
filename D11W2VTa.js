@@ -1,0 +1,1 @@
+var e={},t=[`To jest fragment tekstu skopiowany przez rel`,`Tekst prefiksu kopiowany domyślnie`];export{e as js,t as pug};

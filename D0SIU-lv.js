@@ -1,0 +1,1 @@
+var e=[`Wpisz nazwę użytkownika`,`Wprowadź hasło`],t=[`Niezależne ładowanie (.Ing)`,`Maska ładowania formularza (.Ing)`,`Logowanie do konta`,`nazwa użytkownika`,`hasło`,`Zaloguj się`];export{e as js,t as pug};

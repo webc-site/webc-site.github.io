@@ -1,0 +1,1 @@
+var e=[],t=[`apple`,`banana`,`orange`,`appleInfo`,`bananaInfo`,`orangeInfo`];export{e as js,t as pug};

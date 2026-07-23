@@ -1,0 +1,1 @@
+var e=[`mga sangkap`,`ihulagway`],t=[`loading`,`walay sulod nga datos`,`Adunay data`];export{e as js,t as pug};

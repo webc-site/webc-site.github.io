@@ -1,0 +1,1 @@
+var e=[`komponen`,`menggambarkan`],t=[`memuat`,`data kosong`,`Ada datanya`];export{e as js,t as pug};

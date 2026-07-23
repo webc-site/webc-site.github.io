@@ -1,0 +1,1 @@
+var e={},t=[`Vízszintes virtuális görgetősáv`,`Függőleges virtuális görgetősáv`];export{e as js,t as pug};

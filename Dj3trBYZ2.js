@@ -1,0 +1,1 @@
+var e={},t=[`အလျားလိုက် virtual scroll bar`,`ဒေါင်လိုက် virtual scroll bar`];export{e as js,t as pug};

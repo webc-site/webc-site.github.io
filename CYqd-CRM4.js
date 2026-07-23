@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`अंतर्राष्ट्रीयकरण`,"doc/use":`घटकों का प्रयोग करें`,"doc/npm":`एनपीएम पैकेज प्रकाशित करें`,"doc/dist":`ऑनलाइन डिस्प्ले स्टेशन`,"doc/bench":`बेंचमार्क`};export{e as default};

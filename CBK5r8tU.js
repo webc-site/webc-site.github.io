@@ -1,0 +1,1 @@
+var e=[],t=[`mansanas`,`saging`,`dalanghita`,`Ang mansanas ay isang pangkaraniwang prutas na mayaman sa sustansya.`,`Ang saging ay isang masarap na prutas na malawakang itinatanim sa mga tropikal na lugar.`,`Ang mga dalandan ay maliwanag ang kulay, makatas at matamis, at mayaman sa bitamina C.`];export{e as js,t as pug};

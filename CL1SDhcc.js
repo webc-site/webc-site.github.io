@@ -1,0 +1,1 @@
+var e=[`Ketik jeneng panganggo`,`Ketik sandhi`],t=[`Independent loading (.Ing)`,`Penyerahan formulir loading mask (.Ing)`,`Mlebet akun`,`jeneng panganggo`,`sandi`,`mlebu log`];export{e as js,t as pug};

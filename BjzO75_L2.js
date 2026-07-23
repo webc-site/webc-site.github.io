@@ -1,0 +1,4 @@
+var e={},t=[`Extremer Minimalismus`,`WebC.site konzentriert sich auf die Erstellung reiner, leichter Front-End-Komponenten ohne Laufzeitbelastung.
+Basierend auf modernen JS- und CSS-Funktionen bietet es unendliche Möglichkeiten mit verfeinertem Code.`,`Ein neues Paradigma für die Frontend-Entwicklung im KI-Zeitalter`,`Machen Sie sich voll und ganz die künstliche Intelligenz zunutze, einen Entwicklungsablauf, der für die automatisierte Codierung konzipiert ist.
+Coderegeln werden im Laufe der Zeit verfeinert, sodass das große Sprachmodell die Kosten senkt und die Effizienz für Sie steigert.`,`Elegante visuelle Normen`,`Das optisch ästhetische Design beinhaltet exquisite Mikrobewegungseffekte und Milchglastextur.
+Weiße Basis, einfach und rein, hilft Ihnen, ein hochwertiges Anwendungsinteraktionserlebnis zu schaffen.`];export{e as js,t as pug};

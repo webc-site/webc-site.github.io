@@ -1,0 +1,1 @@
+var e=[`Dan huwa messaġġ ta' tfakkira ġenerali`,`L-operazzjoni falliet, jekk jogħġbok erġa' pprova`],t=[`Ħin ta' għajbien (sekondi)`,`Pariri ġenerali`,`Messaġġ ta' żball`];export{e as js,t as pug};

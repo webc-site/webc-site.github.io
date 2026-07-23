@@ -1,0 +1,1 @@
+var e=[],t=[`jablko`,`banán`,`mandarínka`,`Jablko je bežné ovocie, ktoré je bohaté na živiny.`,`Banán je chutné ovocie široko pestované v tropických oblastiach.`,`Pomaranče majú jasnú farbu, sú šťavnaté a sladké a bohaté na vitamín C.`];export{e as js,t as pug};

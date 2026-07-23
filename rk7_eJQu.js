@@ -1,0 +1,1 @@
+var e=[`Jednostavan popup sloj`,`Pop-up box, implementiran na osnovu html5 dijaloga`,`Naravno`],t=[`Kliknite na mene da se pojavi okvir`];export{e as js,t as pug};

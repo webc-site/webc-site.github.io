@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`διεθνοποίηση`,"doc/use":`Χρησιμοποιήστε εξαρτήματα`,"doc/npm":`Δημοσίευση πακέτου NPM`,"doc/dist":`Διαδικτυακός σταθμός προβολής`,"doc/bench":`Σημείο αναφοράς`};export{e as default};

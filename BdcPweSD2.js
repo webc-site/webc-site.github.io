@@ -1,0 +1,1 @@
+var e=[],t=[`äpple`,`banan`,`mandarin`,`Äppel är en vanlig frukt som är rik på näringsämnen.`,`Banan är en utsökt frukt som odlas allmänt i tropiska områden.`,`Apelsiner är ljusa i färgen, saftiga och söta och rika på C-vitamin.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Ito ay isang pangkalahatang mensahe ng paalala`,`Nabigo ang operasyon, pakisubukang muli`],t=[`Oras ng pagkawala (segundo)`,`Pangkalahatang mga tip`,`Mensahe ng error`];export{e as js,t as pug};

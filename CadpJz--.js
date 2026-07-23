@@ -1,0 +1,1 @@
+var e={},t=[`forsiden`,`bruger`,`sætte op`];export{e as js,t as pug};

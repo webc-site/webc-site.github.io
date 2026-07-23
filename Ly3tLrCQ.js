@@ -1,0 +1,4 @@
+var e={},t=[`Extreem minimalisme`,`WebC.site richt zich op het bouwen van pure, lichtgewicht front-endcomponenten zonder runtime-last.
+Het vertrouwt op moderne js- en css-functies en biedt oneindige mogelijkheden met verfijnde code.`,`Een nieuw paradigma voor front-end ontwikkeling in het AI-tijdperk`,`Omarm kunstmatige intelligentie volledig, een ontwikkelingsstroom die is ontworpen voor geautomatiseerde codering.
+Coderegels worden in de loop van de tijd verfijnd, waardoor het grote taalmodel de kosten kan verlagen en de efficiëntie voor u kan verhogen.`,`Elegante visuele normen`,`Het visueel-esthetische ontwerp bevat prachtige micro-bewegingseffecten en een matglastextuur.
+Witte basis, eenvoudig en puur, waarmee u een hoogwaardige applicatie-interactie-ervaring kunt creëren.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`automatikus`,`Ez egy buborékhegy`,`Balra`,`jobbra`,`Le`,`felsőbbrendű`];export{e as js,t as pug};

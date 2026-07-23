@@ -1,0 +1,1 @@
+var e=[`Ez egy általános emlékeztető üzenet`,`A művelet nem sikerült, próbálja újra`],t=[`Eltűnési idő (másodperc)`,`Általános tippek`,`Hibaüzenet`];export{e as js,t as pug};

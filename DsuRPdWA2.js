@@ -1,0 +1,4 @@
+var e={},t=[`Minimaliaeth eithafol`,`Mae WebC.site yn canolbwyntio ar adeiladu cydrannau pen blaen pur, ysgafn heb unrhyw faich amser rhedeg.
+Gan ddibynnu ar nodweddion js a css modern, mae'n cyflwyno posibiliadau anfeidrol gyda chod mireinio.`,`Paradeim newydd ar gyfer datblygiad pen blaen yn yr oes AI`,`Cofleidiwch ddeallusrwydd artiffisial yn llawn, llif datblygu a gynlluniwyd ar gyfer codio awtomataidd.
+Mae rheolau cod yn cael eu mireinio dros amser, gan ganiatáu i'r model iaith mawr leihau costau a chynyddu effeithlonrwydd i chi.`,`Normau gweledol cain`,`Mae'r dyluniad esthetig gweledol yn ymgorffori effeithiau micro-symudiad coeth a gwead gwydr barugog.
+Sylfaen gwyn, syml a phur, gan eich helpu i greu profiad rhyngweithio cymhwysiad o ansawdd uchel.`];export{e as js,t as pug};

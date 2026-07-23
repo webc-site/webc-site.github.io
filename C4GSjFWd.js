@@ -1,0 +1,1 @@
+var e=[],t=[`obuolys`,`bananas`,`mandarinas`,`Obuoliai yra dažnas vaisius, kuriame gausu maistinių medžiagų.`,`Bananas yra skanus vaisius, plačiai auginamas tropinėse vietovėse.`,`Apelsinai yra ryškios spalvos, sultingi ir saldūs, juose gausu vitamino C.`];export{e as js,t as pug};

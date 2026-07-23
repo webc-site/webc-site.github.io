@@ -1,0 +1,1 @@
+var e=[`Jednoduchá vyskakovacia vrstva`,`Vyskakovacie okno, implementované na základe dialógu HTML5`,`Jasné`],t=[`Kliknutím na mňa sa zobrazí okno`];export{e as js,t as pug};

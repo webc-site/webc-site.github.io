@@ -1,0 +1,1 @@
+var e={},t=[`portada`,`erabiltzailea`,`ezarri`];export{e as js,t as pug};

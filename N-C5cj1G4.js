@@ -1,0 +1,1 @@
+var e=[`Dette er en generell påminnelsesmelding`,`Operasjonen mislyktes. Prøv igjen`],t=[`Forsvinningstid (sekunder)`,`Generelle tips`,`Feilmelding`];export{e as js,t as pug};

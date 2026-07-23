@@ -1,0 +1,1 @@
+var e=[`Sprooch`,`Index`],t=[`Moment gewielt Sprooch`];export{e as js,t as pug};

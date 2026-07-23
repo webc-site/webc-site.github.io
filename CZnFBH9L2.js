@@ -1,0 +1,1 @@
+var e={},t=[`otomatik`,`Bu bir baloncuk ucu`,`Sol`,`Sağ`,`Aşağı`,`üst`];export{e as js,t as pug};

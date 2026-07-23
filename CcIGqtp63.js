@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`kimataifa`,"doc/use":`Tumia vipengele`,"doc/npm":`Chapisha kifurushi cha NPM`,"doc/dist":`Kituo cha kuonyesha mtandaoni`,"doc/bench":`Benchmark`};export{e as default};

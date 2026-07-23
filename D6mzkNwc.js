@@ -1,0 +1,1 @@
+var e=[`Ange användarnamn`,`Ange lösenord`],t=[`Oberoende laddning (.Ing)`,`Inläsningsmask för formulärinlämning (.Ing)`,`Kontoinloggning`,`användarnamn`,`lösenord`,`Logga in`];export{e as js,t as pug};

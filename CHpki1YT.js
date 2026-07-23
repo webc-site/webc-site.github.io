@@ -1,0 +1,1 @@
+var e={},t=[`Lárétt sýndarskrollslá`,`Lóðrétt sýndarskrollslá`];export{e as js,t as pug};

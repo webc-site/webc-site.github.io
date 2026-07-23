@@ -1,0 +1,1 @@
+var e=[],t=[`nettstedsnavn`,`Link en`,`Link to`,`Rull siden opp og ned for å se den automatiske kollaps- og visningseffekten til den øverste navigasjonslinjen.`];export{e as js,t as pug};

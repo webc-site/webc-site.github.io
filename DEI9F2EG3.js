@@ -1,0 +1,1 @@
+var e=[`Bu umumiy eslatma xabaridir`,`Amaliyot amalga oshmadi, qayta urinib ko‘ring`],t=[`Yo'qolish vaqti (sekundlar)`,`Umumiy maslahatlar`,`Xato xabari`];export{e as js,t as pug};

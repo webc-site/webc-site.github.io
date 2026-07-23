@@ -1,0 +1,1 @@
+var e={},t=[`outomaties`,`Dit is 'n borrelwenk`,`Links`,`reg`,`Af`,`meerderwaardig`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[{"":`Pagina iniziale`,doc:`documento`,blog:`blog`}],t=[`I collegamenti vengono visualizzati affiancati sul desktop e raggruppati in pulsanti icona sul cellulare`,`Desktop`,`Visualizzazione delle tessere`,`Terminale mobile`,`Comprimi nel pulsante icona, fai clic per far scorrere il menu laterale`];export{e as js,t as pug};

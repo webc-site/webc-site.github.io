@@ -1,0 +1,1 @@
+var e=[`Pievienot`],t=[`Noklusējuma poga`,`galvenā poga`,`saites poga`,`Ikonas poga (.BtnC)`];export{e as js,t as pug};

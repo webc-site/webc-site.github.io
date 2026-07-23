@@ -1,0 +1,1 @@
+var e={},t=[`ໜ້າ`,`ຜູ້ໃຊ້`,`ຕັ້ງ`];export{e as js,t as pug};

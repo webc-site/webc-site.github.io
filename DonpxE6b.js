@@ -1,0 +1,1 @@
+var e={},t=[`Dëst ass e Stéck Text kopéiert iwwer rel`,`Präfix Text par défaut kopéiert`];export{e as js,t as pug};

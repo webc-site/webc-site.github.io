@@ -1,0 +1,1 @@
+var e=[{"":`Domača stran`,doc:`dokument`,blog:`blog`}],t=[`Povezave so prikazane v ploščicah na namizju in zložene v gumbe z ikonami na mobilniku`,`Namizje`,`Prikaz ploščic`,`Mobilni terminal`,`Gumb Strni v ikono, kliknite, da zdrsnete iz stranskega menija`];export{e as js,t as pug};

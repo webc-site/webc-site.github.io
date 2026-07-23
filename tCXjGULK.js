@@ -1,0 +1,1 @@
+var e=[`Enkelt popup-lager`,`Popup-ruta, implementerad baserat på html5-dialog`,`Säker`],t=[`Klicka på mig för att popup-rutan`];export{e as js,t as pug};

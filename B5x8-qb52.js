@@ -1,0 +1,1 @@
+var e=[`kalba`,`indeksas`],t=[`Šiuo metu pasirinkta kalba`];export{e as js,t as pug};

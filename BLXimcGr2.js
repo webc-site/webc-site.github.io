@@ -1,0 +1,1 @@
+var e=[`Bu genel bir hatırlatma mesajıdır`,`İşlem başarısız oldu, lütfen tekrar deneyin`],t=[`Kaybolma süresi (saniye)`,`Genel ipuçları`,`Hata mesajı`];export{e as js,t as pug};

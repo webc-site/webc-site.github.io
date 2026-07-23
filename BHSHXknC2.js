@@ -1,0 +1,1 @@
+var e=[],t=[`quả táo`,`chuối`,`quýt`,`Táo là một loại trái cây phổ biến rất giàu chất dinh dưỡng.`,`Chuối là loại trái cây thơm ngon được trồng rộng rãi ở các vùng nhiệt đới.`,`Cam có màu sắc tươi sáng, mọng nước, ngọt ngào và giàu vitamin C.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`språk`,`indeks`],t=[`Foreløpig valgt språk`];export{e as js,t as pug};

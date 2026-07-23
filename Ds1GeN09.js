@@ -1,0 +1,1 @@
+var e={},t=[`Txartel lehenetsia`,`Egin klik xehetasunen orrira joateko`,`Aktibatu txartela`,`Uneko orrialdeari dagokion txartela`];export{e as js,t as pug};

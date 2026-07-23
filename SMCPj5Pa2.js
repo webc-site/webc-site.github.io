@@ -1,0 +1,1 @@
+var e=[`Anna käyttäjänimi`,`Anna salasana`],t=[`Itsenäinen lataus (.Ing)`,`Lomakkeen lähetyksen latausmaski (.Ing)`,`Tilin kirjautuminen`,`käyttäjätunnus`,`salasana`,`Kirjaudu sisään`];export{e as js,t as pug};

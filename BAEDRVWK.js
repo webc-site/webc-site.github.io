@@ -1,0 +1,1 @@
+var e={},t=[`Thanh cuộn ảo ngang`,`Thanh cuộn ảo dọc`];export{e as js,t as pug};

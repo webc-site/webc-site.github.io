@@ -1,0 +1,1 @@
+var e=[],t=[`appel`,`banaan`,`mandarijn`,`Appel is een veel voorkomende vrucht die rijk is aan voedingsstoffen.`,`Banaan is een heerlijke vrucht die veel wordt verbouwd in tropische gebieden.`,`Sinaasappelen zijn helder van kleur, sappig en zoet en rijk aan vitamine C.`];export{e as js,t as pug};

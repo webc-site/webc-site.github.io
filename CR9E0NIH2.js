@@ -1,0 +1,1 @@
+var e={},t=[`Ito ay isang piraso ng text na kinopya sa pamamagitan ng rel`,`Ang teksto ng prefix ay kinopya bilang default`];export{e as js,t as pug};

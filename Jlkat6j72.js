@@ -1,0 +1,1 @@
+var e=[`Couche contextuelle simple`,`Boîte contextuelle, implémentée sur la base d'une boîte de dialogue HTML5`,`Bien sûr`],t=[`Cliquez sur moi pour faire apparaître la boîte`];export{e as js,t as pug};

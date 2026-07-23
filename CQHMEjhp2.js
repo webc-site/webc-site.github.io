@@ -1,0 +1,1 @@
+var e=[],t=[`jina la tovuti`,`Unganisha moja`,`Unganisha mbili`,`Tafadhali sogeza ukurasa juu na chini ili kuona kuanguka kiotomatiki na madoido ya upau wa kusogeza wa juu.`];export{e as js,t as pug};

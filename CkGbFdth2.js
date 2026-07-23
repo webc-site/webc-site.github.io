@@ -1,0 +1,1 @@
+var e=[{"":`Kezdőlap`,doc:`dokumentum`,blog:`blog`}],t=[`A hivatkozások csempézetten jelennek meg az asztalon, és ikonokba hajtogatva a mobilon`,`Asztali`,`Csempe kijelző`,`Mobil terminál`,`Összecsukása ikonra gomb, kattintson az oldalsó menü kicsúsztatásához`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Għażla 1`,`Għażla 2`,`Għażla 3`,`jissottometti`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Lisää`],t=[`Oletuspainike`,`pääpainike`,`linkkipainike`,`Kuvakepainike (.BtnC)`];export{e as js,t as pug};

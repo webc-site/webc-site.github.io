@@ -1,0 +1,1 @@
+var e=[],t=[`maçã`,`banana`,`tangerina`,`A maçã é uma fruta comum e rica em nutrientes.`,`A banana é uma fruta deliciosa amplamente cultivada em áreas tropicais.`,`As laranjas são de cor brilhante, suculentas e doces e ricas em vitamina C.`];export{e as js,t as pug};

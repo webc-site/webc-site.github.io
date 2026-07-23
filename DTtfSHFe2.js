@@ -1,0 +1,1 @@
+var e={},t=[`Standart holat (kirilmagan)`,`Elektron pochta`,`Standart holat`];export{e as js,t as pug};

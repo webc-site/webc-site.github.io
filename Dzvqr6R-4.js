@@ -1,0 +1,1 @@
+var e=[`Iki minangka pesen pangeling umum`,`Operasi gagal, coba maneh`],t=[`Wektu ilang (detik)`,`Tip umum`,`Pesen kesalahan`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Cerdyn diofyn`,`Cliciwch i neidio i'r dudalen fanylion`,`Actifadu cerdyn`,`Y cerdyn sy'n cyfateb i'r dudalen gyfredol`];export{e as js,t as pug};

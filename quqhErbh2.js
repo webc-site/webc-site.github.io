@@ -1,0 +1,1 @@
+var e=[{"":`Heimasíða`,doc:`skjal`,blog:`blogg`}],t=[`Tenglar eru sýndir flísalagðir á skjáborðinu og brotnir saman í táknhnappa á farsímanum`,`Skrifborð`,`Flísaskjár`,`Farsímastöð`,`Dragðu saman í táknhnapp, smelltu til að renna út hliðarvalmyndina`];export{e as js,t as pug};

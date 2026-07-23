@@ -1,0 +1,1 @@
+var e=[],t=[`názov webovej stránky`,`Odkaz jeden`,`Odkaz dva`,`Posúvajte stránku nahor a nadol, aby ste sledovali automatické zbalenie a efekt zobrazenia horného navigačného panela.`];export{e as js,t as pug};

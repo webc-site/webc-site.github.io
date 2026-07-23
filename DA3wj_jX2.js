@@ -1,0 +1,1 @@
+var e={},t=[`Hali chaguo-msingi (haijaingizwa)`,`Barua pepe`,`Hali chaguomsingi`];export{e as js,t as pug};

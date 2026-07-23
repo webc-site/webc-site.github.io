@@ -1,0 +1,1 @@
+var e={},t=[`Ovo je dio teksta kopiran putem rel`,`Tekst prefiksa kopiran prema zadanim postavkama`];export{e as js,t as pug};

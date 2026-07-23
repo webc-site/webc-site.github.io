@@ -1,0 +1,1 @@
+var e={},t=[`Defolt kart`,`Detallar səhifəsinə keçmək üçün klikləyin`,`Kartı aktivləşdirin`,`Cari səhifəyə uyğun kart`];export{e as js,t as pug};

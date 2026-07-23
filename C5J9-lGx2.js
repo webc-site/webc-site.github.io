@@ -1,0 +1,1 @@
+var e=[`adicionar à`],t=[`Botão padrão`,`botão principal`,`botão de link`,`Botão de ícone (.BtnC)`];export{e as js,t as pug};

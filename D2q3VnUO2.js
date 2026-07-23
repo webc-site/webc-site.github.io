@@ -1,0 +1,1 @@
+var e=[],t=[`olma`,`banan`,`mandarin`,`Olma foydali moddalarga boy keng tarqalgan mevadir.`,`Banan - tropik hududlarda keng tarqalgan mazali meva.`,`Apelsin rangi yorqin, suvli va shirin, S vitaminiga boy.`];export{e as js,t as pug};

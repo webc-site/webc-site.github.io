@@ -1,0 +1,1 @@
+var e={},t=[`Oletuskortti`,`Napsauta siirtyäksesi tietosivulle`,`Aktivoi kortti`,`Nykyistä sivua vastaava kortti`];export{e as js,t as pug};

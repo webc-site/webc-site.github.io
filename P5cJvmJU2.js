@@ -1,0 +1,1 @@
+var e=[`Ingrese el nombre de usuario`,`Introduce la contraseña`],t=[`Carga independiente (.Ing)`,`Máscara de carga de envío de formulario (.Ing)`,`Inicio de sesión de cuenta`,`nombre de usuario`,`contraseña`,`Acceso`];export{e as js,t as pug};

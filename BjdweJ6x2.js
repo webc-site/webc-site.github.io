@@ -1,0 +1,1 @@
+var e=[`Pagsulod sa username`,`Pagsulod sa password`],t=[`Independent loading (.Ing)`,`Pagsumiter og porma nga loading mask (.Ing)`,`Pag-login sa account`,`username`,`password`,`Log in`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Toevoegen aan`],t=[`Standaardknop`,`hoofdknop`,`link-knop`,`Pictogramknop (.BtnC)`];export{e as js,t as pug};

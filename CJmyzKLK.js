@@ -1,0 +1,1 @@
+var e=[],t=[`jabłko`,`banan`,`mandarynka`,`Jabłko to powszechny owoc bogaty w składniki odżywcze.`,`Banan to pyszny owoc powszechnie uprawiany na obszarach tropikalnych.`,`Pomarańcze mają jasny kolor, są soczyste i słodkie oraz bogate w witaminę C.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[],t=[`emri i faqes në internet`,`Lidhja e parë`,`Lidhja dy`,`Ju lutemi, lëvizni faqen lart e poshtë për të vëzhguar efektin automatik të kolapsit dhe shfaqjes së shiritit të sipërm të navigimit.`];export{e as js,t as pug};

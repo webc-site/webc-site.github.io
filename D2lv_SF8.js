@@ -1,0 +1,1 @@
+var e={},t=[`awtomatiku`,`Din hija ponta tal-bużżieqa`,`Xellug`,`dritt`,`Down`,`superjuri`];export{e as js,t as pug};

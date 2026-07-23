@@ -1,0 +1,1 @@
+var e={},t=[`Verstekstatus (nie ingevoer nie)`,`E-pos`,`Verstek status`];export{e as js,t as pug};

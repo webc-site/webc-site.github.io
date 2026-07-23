@@ -1,0 +1,1 @@
+var e=[`Adja meg a felhasználónevet`,`Adja meg a jelszót`],t=[`Független betöltés (.Ing)`,`Űrlapbetöltési maszk (.Ing)`,`fiók bejelentkezés`,`felhasználónév`,`jelszó`,`Jelentkezzen be`];export{e as js,t as pug};

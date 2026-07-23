@@ -1,0 +1,4 @@
+var e={},t=[`Muturreko minimalismoa`,`WebC.site-k front-end osagai garbiak eta arinak eraikitzen ditu exekuzio-zamarik gabe.
+Js eta css ezaugarri modernoetan oinarrituz, aukera infinituak aurkezten ditu kode finduarekin.`,`AI garaian front-end garapenerako paradigma berri bat`,`Besarkatu guztiz adimen artifiziala, kodeketa automatizaturako diseinatutako garapen-fluxua.
+Kode-arauak denborarekin findu egiten dira, hizkuntza-eredu handiak kostuak murrizteko eta zuretzako eraginkortasuna areagotzeko aukera emanez.`,`Arau bisual dotoreak`,`Diseinu estetiko bisualak mikro-mugimendu efektu bikainak eta beira izoztuaren ehundura ditu.
+Oinarri zuria, sinplea eta hutsa, kalitate handiko aplikazioen interakzio esperientzia sortzen laguntzen dizu.`];export{e as js,t as pug};

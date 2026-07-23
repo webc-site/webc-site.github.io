@@ -1,0 +1,1 @@
+var e={},t=[`automatikoa`,`Hau burbuila punta bat da`,`Ezkerra`,`eskubidea`,`Behera`,`goi-mailakoa`];export{e as js,t as pug};

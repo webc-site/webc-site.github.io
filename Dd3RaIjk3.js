@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`国际化`,"doc/use":`使用组件`,"doc/npm":`发布 NPM 包`,"doc/dist":`上线展示站`,"doc/bench":`基准评测`};export{e as default};

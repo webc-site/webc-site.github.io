@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`internacionalizace`,"doc/use":`Používejte komponenty`,"doc/npm":`Publikovat balíček NPM`,"doc/dist":`Online zobrazovací stanice`,"doc/bench":`Benchmark`};export{e as default};

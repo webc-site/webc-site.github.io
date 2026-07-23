@@ -1,0 +1,1 @@
+var e=[`Tilføj til`],t=[`Standard knap`,`hovedknap`,`link-knap`,`Ikonknap (.BtnC)`];export{e as js,t as pug};

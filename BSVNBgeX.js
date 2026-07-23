@@ -1,0 +1,1 @@
+var e=[`komponentov`,`popísať`],t=[`načítavanie`,`prázdne údaje`,`Existujú údaje`];export{e as js,t as pug};

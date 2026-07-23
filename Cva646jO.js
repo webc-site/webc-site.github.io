@@ -1,0 +1,1 @@
+var e=[`componente`,`descrie`],t=[`încărcare`,`date goale`,`Există date`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`faqe e parë`,`përdorues`,`ngritur`];export{e as js,t as pug};

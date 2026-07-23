@@ -1,0 +1,1 @@
+var e=[`Voer gebruikersnaam in`,`Voer wagwoord in`],t=[`Onafhanklike laai (.Ing)`,`Vorm indiening laai masker (.Ing)`,`Rekeningaanmelding`,`gebruikernaam`,`wagwoord`,`Meld aan`];export{e as js,t as pug};

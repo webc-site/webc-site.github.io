@@ -1,0 +1,1 @@
+var e=[],t=[`webbplatsens namn`,`Länka en`,`Länk två`,`Vänligen rulla sidan upp och ner för att se den automatiska kollaps- och visningseffekten av det övre navigeringsfältet.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[],t=[`veebisaidi nimi`,`Link üks`,`Link kaks`,`Kerige lehte üles ja alla, et jälgida ülemise navigeerimisriba automaatset ahendamise ja kuvamise efekti.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[],t=[`nom del lloc web`,`Enllaç un`,`Enllaç dos`,`Si us plau, desplaceu-vos per la pàgina cap amunt i cap avall per observar el col·lapse automàtic i l'efecte de visualització de la barra de navegació superior.`];export{e as js,t as pug};

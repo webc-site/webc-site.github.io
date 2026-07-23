@@ -1,0 +1,1 @@
+var e=[`Gitt Benotzernumm`,`Gitt Passwuert`],t=[`Onofhängeg Luede (.Ing)`,`Form Soumissioun Luede Mask (.Ing)`,`Kont Login`,`Benotzernumm`,`Passwuert`,`Mellt Iech un`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`til`,`indeks`],t=[`Hozirda tanlangan til`];export{e as js,t as pug};

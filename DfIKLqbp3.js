@@ -1,0 +1,1 @@
+var e=[`Ceci est un message de rappel général`,`L'opération a échoué, veuillez réessayer`],t=[`Temps de disparition (secondes)`,`Conseils généraux`,`Message d'erreur`];export{e as js,t as pug};

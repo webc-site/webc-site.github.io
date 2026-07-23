@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`ინტერნაციონალიზაცია`,"doc/use":`გამოიყენეთ კომპონენტები`,"doc/npm":`NPM პაკეტის გამოქვეყნება`,"doc/dist":`ონლაინ ჩვენების სადგური`,"doc/bench":`ნიშნული`};export{e as default};

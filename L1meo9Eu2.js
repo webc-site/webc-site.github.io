@@ -1,0 +1,4 @@
+var e={},t=[`Chủ nghĩa tối giản cực độ`,`WebC.site tập trung vào việc xây dựng các thành phần giao diện người dùng nhẹ, thuần túy mà không phải chịu gánh nặng về thời gian chạy.
+Dựa vào các tính năng js và css hiện đại, nó mang đến khả năng vô hạn với mã được tinh chỉnh.`,`Mô hình mới cho phát triển front-end trong kỷ nguyên AI`,`Hoàn toàn nắm bắt trí tuệ nhân tạo, một quy trình phát triển được thiết kế để mã hóa tự động.
+Các quy tắc mã được tinh chỉnh theo thời gian, cho phép mô hình ngôn ngữ lớn giảm chi phí và tăng hiệu quả cho bạn.`,`Chuẩn mực trực quan thanh lịch`,`Thiết kế thẩm mỹ trực quan kết hợp các hiệu ứng chuyển động vi mô tinh tế và kết cấu kính mờ.
+Nền trắng, đơn giản và thuần khiết, giúp bạn tạo ra trải nghiệm tương tác ứng dụng chất lượng cao.`];export{e as js,t as pug};

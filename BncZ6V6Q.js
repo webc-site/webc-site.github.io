@@ -1,0 +1,1 @@
+var e=[{"":`Trang chủ`,doc:`tài liệu`,blog:`blog`}],t=[`Các liên kết được hiển thị xếp chồng trên desktop và xếp thành các nút biểu tượng trên di động`,`Máy tính để bàn`,`Hiển thị ô xếp`,`Thiết bị đầu cuối di động`,`Thu gọn vào nút biểu tượng, nhấp để trượt menu bên`];export{e as js,t as pug};

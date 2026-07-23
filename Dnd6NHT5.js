@@ -1,0 +1,1 @@
+var e=[{"":`Ukurasa wa nyumbani`,doc:`hati`,blog:`blogu`}],t=[`Viungo vinaonyeshwa vikiwa na vigae kwenye eneo-kazi na kukunjwa kuwa vitufe vya ikoni kwenye simu ya mkononi`,`Eneo-kazi`,`Maonyesho ya vigae`,`Terminal ya rununu`,`Kunja kwenye kitufe cha ikoni, bofya ili kutelezesha menyu ya pembeni`];export{e as js,t as pug};

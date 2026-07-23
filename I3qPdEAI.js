@@ -1,0 +1,1 @@
+var e={},t=[`Zadana kartica`,`Kliknite da skočite na stranicu sa detaljima`,`Aktivirajte karticu`,`Kartica koja odgovara trenutnoj stranici`];export{e as js,t as pug};

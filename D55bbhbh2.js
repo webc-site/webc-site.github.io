@@ -1,0 +1,1 @@
+var e={},t=[`Karta e parazgjedhur`,`Klikoni për të kaluar në faqen e detajeve`,`Aktivizo kartën`,`Karta që korrespondon me faqen aktuale`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`a ekle`],t=[`Varsayılan düğme`,`ana düğme`,`bağlantı düğmesi`,`Simge Düğmesi (.BtnC)`];export{e as js,t as pug};

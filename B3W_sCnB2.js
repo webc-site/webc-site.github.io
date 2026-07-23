@@ -1,0 +1,1 @@
+var e=[`Einfalt sprettigluggalag`,`Sprettigluggi, útfærður út frá html5 valmynd`,`Jú`],t=[`Smelltu á mig til að poppa upp Box`];export{e as js,t as pug};

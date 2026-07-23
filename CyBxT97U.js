@@ -1,0 +1,1 @@
+var e=[`komponente`,`opisati`],t=[`loading`,`prazni podaci`,`Postoje podaci`];export{e as js,t as pug};

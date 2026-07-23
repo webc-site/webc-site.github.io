@@ -1,0 +1,1 @@
+var e=[{"":`Hasierako orria`,doc:`dokumentua`,blog:`bloga`}],t=[`Estekak mahaigainean lauza bistaratzen dira eta mugikorreko ikono-botoietan tolesten dira`,`Mahaigaina`,`Fitxa bistaratzea`,`Terminal mugikorra`,`Tolestu ikono-botoian, egin klik alboko menutik ateratzeko`];export{e as js,t as pug};

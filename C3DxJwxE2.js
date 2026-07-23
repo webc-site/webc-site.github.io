@@ -1,0 +1,1 @@
+var e={},t=[`Dies ist ein über rel kopierter Text`,`Standardmäßig kopierter Präfixtext`];export{e as js,t as pug};

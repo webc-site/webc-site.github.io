@@ -1,0 +1,1 @@
+var e={},t=[`Yatay sanal kaydırma çubuğu`,`Dikey sanal kaydırma çubuğu`];export{e as js,t as pug};

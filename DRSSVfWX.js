@@ -1,0 +1,1 @@
+var e=[`komponentit`,`kuvata`],t=[`lastaus`,`tyhjiä tietoja`,`Dataa on`];export{e as js,t as pug};

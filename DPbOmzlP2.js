@@ -1,0 +1,1 @@
+var e={},t=[`Horizontálny virtuálny posuvník`,`Vertikálny virtuálny posuvník`];export{e as js,t as pug};

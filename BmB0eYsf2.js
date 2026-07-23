@@ -1,0 +1,1 @@
+var e=[`Livello popup semplice`,`Finestra pop-up, implementata in base alla finestra di dialogo html5`,`Sicuro`],t=[`Cliccami per far apparire la casella`];export{e as js,t as pug};

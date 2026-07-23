@@ -1,0 +1,1 @@
+var e=[`Einfach Popup Layer`,`Pop-up Këscht, implementéiert baséiert op html5 Dialog`,`Sécher`],t=[`Klickt mech fir Box opzemaachen`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Aquest és un fragment de text copiat mitjançant rel`,`Text del prefix copiat per defecte`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Tambahkan ke`],t=[`Tombol bawaan`,`tombol utama`,`tombol tautan`,`Tombol Ikon (.BtnC)`];export{e as js,t as pug};

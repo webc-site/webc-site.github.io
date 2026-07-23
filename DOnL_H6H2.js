@@ -1,0 +1,1 @@
+var e=[{"":`Kotisivu`,doc:`asiakirja`,blog:`blogi`}],t=[`Linkit näkyvät laatoitettuina työpöydällä ja taitettuina kuvakepainikkeiksi matkapuhelimessa`,`Työpöytä`,`Laattojen näyttö`,`Mobiilipääte`,`Tiivistä kuvakepainikkeeksi, liu'uta sivuvalikko ulos napsauttamalla`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Lapisan popup prasaja`,`Kothak pop-up, dileksanakake adhedhasar dialog html5`,`mesthi`],t=[`Klik kula kanggo pop munggah Box`];export{e as js,t as pug};

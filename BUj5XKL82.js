@@ -1,0 +1,1 @@
+var e={},t=[`Karta default`,`Ikklikkja biex taqbeż għall-paġna tad-dettalji`,`Attiva l-karta`,`Il-karta li tikkorrispondi għall-paġna kurrenti`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Tai teksto dalis, nukopijuota per rel`,`Priešdėlio tekstas nukopijuotas pagal numatytuosius nustatymus`];export{e as js,t as pug};

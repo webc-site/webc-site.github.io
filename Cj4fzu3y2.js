@@ -1,0 +1,1 @@
+var e=[`komponenti`,`iddeskrivi`],t=[`tagħbija`,`data vojta`,`Hemm data`];export{e as js,t as pug};

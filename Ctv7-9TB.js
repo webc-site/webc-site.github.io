@@ -1,0 +1,1 @@
+var e=[`ngôn ngữ`,`chỉ số`],t=[`Ngôn ngữ hiện được chọn`];export{e as js,t as pug};

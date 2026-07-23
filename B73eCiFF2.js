@@ -1,0 +1,1 @@
+var e={},t=[`옵션 1`,`옵션 2`,`옵션 3`,`제출하다`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Yano nga popup layer`,`Pop-up box, gipatuman base sa html5 dialog`,`Sigurado`],t=[`I-klik ako aron ma-pop up ang Kahon`];export{e as js,t as pug};

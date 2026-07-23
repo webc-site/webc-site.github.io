@@ -1,0 +1,1 @@
+var e={},t=[`Noklusējuma karte`,`Noklikšķiniet, lai pārietu uz detalizētās informācijas lapu`,`Aktivizēt karti`,`Karte, kas atbilst pašreizējai lapai`];export{e as js,t as pug};

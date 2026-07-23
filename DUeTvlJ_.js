@@ -1,0 +1,1 @@
+var e=[{"":`Tuisblad`,doc:`dokument`,blog:`blog`}],t=[`Skakels word geteël op die lessenaar vertoon en in ikoonknoppies op die selfoon gevou`,`Desktop`,`Teël vertoon`,`Mobiele terminaal`,`Vou in ikoonknoppie in, klik om uit die sykieslys te gly`];export{e as js,t as pug};

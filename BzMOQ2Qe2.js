@@ -1,0 +1,1 @@
+var e={},t=[`Horizontali virtuali slinkties juosta`,`Vertikali virtuali slinkties juosta`];export{e as js,t as pug};

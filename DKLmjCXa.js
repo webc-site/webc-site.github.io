@@ -1,0 +1,1 @@
+var e=[`Voer gebruikersnaam in`,`Voer wachtwoord in`],t=[`Onafhankelijk laden (.Ing)`,`Laadmasker voor het indienen van formulieren (.Ing)`,`Account inloggen`,`gebruikersnaam`,`wachtwoord`,`Inloggen`];export{e as js,t as pug};

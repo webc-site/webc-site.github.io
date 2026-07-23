@@ -1,0 +1,1 @@
+var e=[`Voeg by`],t=[`Standaard knoppie`,`hoofknoppie`,`skakel knoppie`,`Ikoonknoppie (.BtnC)`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Inserisci il nome utente`,`Inserisci la password`],t=[`Caricamento indipendente (.Ing)`,`Maschera di caricamento invio moduli (.Ing)`,`Accesso all'account`,`nome utente`,`password`,`Login`];export{e as js,t as pug};

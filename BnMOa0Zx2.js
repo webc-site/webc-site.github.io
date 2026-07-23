@@ -1,0 +1,1 @@
+var e=[`Nhập tên người dùng`,`Nhập mật khẩu`],t=[`Tải độc lập (.Ing)`,`Mặt nạ tải gửi biểu mẫu (.Ing)`,`Đăng nhập tài khoản`,`tên người dùng`,`mật khẩu`,`Đăng nhập`];export{e as js,t as pug};

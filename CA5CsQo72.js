@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`بين الاقواميت`,"doc/use":`اجزاء استعمال ڪريو`,"doc/npm":`NPM پيڪيج شايع ڪريو`,"doc/dist":`آن لائين ڊسپلي اسٽيشن`,"doc/bench":`بينچ مارڪ`};export{e as default};

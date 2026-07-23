@@ -1,0 +1,1 @@
+var e=[`Įveskite vartotojo vardą`,`Įveskite slaptažodį`],t=[`Nepriklausomas įkėlimas (.Ing)`,`Formos pateikimo įkėlimo kaukė (.Ing)`,`Prisijungimas prie paskyros`,`vartotojo vardas`,`slaptažodis`,`Prisijunkite`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[{"":`Página inicial`,doc:`documento`,blog:`blog`}],t=[`Os links são exibidos lado a lado na área de trabalho e dobrados em botões de ícones no celular`,`Área de trabalho`,`Exibição de blocos`,`Terminal móvel`,`Recolher no botão do ícone, clique para deslizar para fora do menu lateral`];export{e as js,t as pug};

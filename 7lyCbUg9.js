@@ -1,0 +1,1 @@
+var e=[`Masukkan nama pengguna`,`Masukkan kata laluan`],t=[`Pemuatan bebas (.Ing)`,`Topeng pemuatan penyerahan borang (.Ing)`,`Log masuk akaun`,`nama pengguna`,`kata laluan`,`Log masuk`];export{e as js,t as pug};

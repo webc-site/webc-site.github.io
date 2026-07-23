@@ -1,0 +1,1 @@
+var e=[{"":`pagina de inicio`,doc:`documento`,blog:`blog`}],t=[`Los enlaces se muestran en mosaico en el escritorio y se pliegan en botones de iconos en el móvil.`,`De oficina`,`Pantalla de mosaico`,`terminal móvil`,`Contraer en el botón de icono, haga clic para deslizar el menú lateral`];export{e as js,t as pug};

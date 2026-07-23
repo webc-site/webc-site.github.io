@@ -1,0 +1,1 @@
+var e=[],t=[`omena`,`banaani`,`mandariini`,`Omena on yleinen hedelmä, joka sisältää runsaasti ravintoaineita.`,`Banaani on herkullinen hedelmä, jota kasvatetaan laajalti trooppisilla alueilla.`,`Appelsiinit ovat väriltään kirkkaita, mehukkaita ja makeita, ja niissä on runsaasti C-vitamiinia.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Dies ist eine allgemeine Erinnerungsnachricht`,`Der Vorgang ist fehlgeschlagen. Bitte versuchen Sie es erneut`],t=[`Verschwindenszeit (Sekunden)`,`Allgemeine Tipps`,`Fehlermeldung`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Neges atgoffa gyffredinol yw hon`,`Methodd y gweithrediad, ceisiwch eto`],t=[`Amser diflannu (eiliadau)`,`Cynghorion cyffredinol`,`Neges gwall`];export{e as js,t as pug};

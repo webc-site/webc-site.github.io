@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`சர்வதேசமயமாக்கல்`,"doc/use":`கூறுகளைப் பயன்படுத்தவும்`,"doc/npm":`NPM தொகுப்பை வெளியிடவும்`,"doc/dist":`ஆன்லைன் காட்சி நிலையம்`,"doc/bench":`அளவுகோல்`};export{e as default};

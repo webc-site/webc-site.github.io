@@ -1,0 +1,1 @@
+var e={},t=[`Üfüqi virtual sürüşmə çubuğu`,`Şaquli virtual sürüşmə çubuğu`];export{e as js,t as pug};

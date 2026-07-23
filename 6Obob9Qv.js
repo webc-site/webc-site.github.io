@@ -1,0 +1,1 @@
+var e={},t=[`Default nga kard`,`Pag-klik aron molukso sa panid sa mga detalye`,`I-aktibo ang kard`,`Ang kard nga katumbas sa karon nga panid`];export{e as js,t as pug};

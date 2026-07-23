@@ -1,0 +1,1 @@
+var e=[`taal`,`indeks`],t=[`Tans gekose taal`];export{e as js,t as pug};

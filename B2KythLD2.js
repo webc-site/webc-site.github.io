@@ -1,0 +1,1 @@
+var e=[],t=[`æble`,`banan`,`mandarin`,`Æble er en almindelig frugt, der er rig på næringsstoffer.`,`Banan er en lækker frugt, der dyrkes bredt i tropiske områder.`,`Appelsiner er lyse i farven, saftige og søde og rige på C-vitamin.`];export{e as js,t as pug};

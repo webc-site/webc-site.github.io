@@ -1,0 +1,1 @@
+var e=[],t=[`web sitesi adı`,`Birini bağla`,`İkiyi bağla`,`Üst gezinme çubuğunun otomatik daralmasını ve görüntülenme efektini görmek için lütfen sayfayı yukarı ve aşağı kaydırın.`];export{e as js,t as pug};

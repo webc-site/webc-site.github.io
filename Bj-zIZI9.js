@@ -1,0 +1,1 @@
+var e=[`Skriv inn brukernavn`,`Skriv inn passord`],t=[`Uavhengig lasting (.Ing)`,`Innlastingsmaske for skjemainnsending (.Ing)`,`Kontopålogging`,`brukernavn`,`passord`,`Logg inn`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[{"":`Domovská stránka`,doc:`dokument`,blog:`blog`}],t=[`Odkazy sa na pracovnej ploche zobrazujú ako dlaždice a na mobilnom zariadení sú zložené do tlačidiel s ikonami`,`Desktop`,`Dlaždicový displej`,`Mobilný terminál`,`Zbaliť do tlačidla ikony, kliknutím vysunúť bočnú ponuku`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`kieli`,`indeksi`],t=[`Tällä hetkellä valittu kieli`];export{e as js,t as pug};

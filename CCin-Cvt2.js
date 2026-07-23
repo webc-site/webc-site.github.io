@@ -1,0 +1,1 @@
+var e=[`Ongeza kwa`],t=[`Kitufe chaguo-msingi`,`kifungo kuu`,`kitufe cha kiungo`,`Kitufe cha Aikoni (.BtnC)`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[{"":`Əsas səhifə`,doc:`sənəd`,blog:`blog`}],t=[`Bağlantılar masaüstündə plitələrlə örtülmüş və mobil telefonda ikon düymələrinə qatlanmış şəkildə göstərilir`,`İş masası`,`Kafel ekranı`,`Mobil terminal`,`Simge düyməsinə yığışdırın, yan menyudan sürüşdürmək üçün klikləyin`];export{e as js,t as pug};

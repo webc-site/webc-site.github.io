@@ -1,0 +1,1 @@
+var e=[{"":`Strona główna`,doc:`dokument`,blog:`blogu`}],t=[`Linki są wyświetlane sąsiadująco na pulpicie i składane w ikony przycisków na telefonie komórkowym`,`Pulpit`,`Wyświetlacz płytek`,`Terminal mobilny`,`Zwiń do przycisku ikony, kliknij, aby wysunąć menu boczne`];export{e as js,t as pug};

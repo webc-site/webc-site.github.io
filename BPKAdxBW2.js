@@ -1,0 +1,1 @@
+var e=[`Ky është një mesazh rikujtues i përgjithshëm`,`Operacioni dështoi, ju lutemi provoni përsëri`],t=[`Koha e zhdukjes (sekonda)`,`Këshilla të përgjithshme`,`Mesazh gabimi`];export{e as js,t as pug};

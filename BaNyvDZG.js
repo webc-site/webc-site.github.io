@@ -1,0 +1,1 @@
+var e=[],t=[`vietnes nosaukums`,`Saite vienu`,`Saite divi`,`Lūdzu, ritiniet lapu uz augšu un uz leju, lai novērotu augšējās navigācijas joslas automātisko sakļauto un parādīšanas efektu.`];export{e as js,t as pug};

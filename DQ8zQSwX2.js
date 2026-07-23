@@ -1,0 +1,1 @@
+var e={},t=[`Estat per defecte (no introduït)`,`Correu electrònic`,`Estat per defecte`];export{e as js,t as pug};

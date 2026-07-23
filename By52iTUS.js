@@ -1,0 +1,1 @@
+var e=[`jezik`,`kazalo`],t=[`Trenutno izbrani jezik`];export{e as js,t as pug};

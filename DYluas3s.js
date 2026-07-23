@@ -1,0 +1,1 @@
+var e={},t=[`sjálfvirkur`,`Þetta er kúluábending`,`Vinstri`,`rétt`,`Niður`,`æðri`];export{e as js,t as pug};

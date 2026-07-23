@@ -1,0 +1,1 @@
+var e={},t=[`portada`,`usuari`,`configurar`];export{e as js,t as pug};

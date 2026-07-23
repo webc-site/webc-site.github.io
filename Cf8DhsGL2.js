@@ -1,0 +1,1 @@
+var e=[`Lihtne hüpikkiht`,`Hüpikkast, rakendatud html5 dialoogi põhjal`,`Muidugi`],t=[`Klõpsake mind, et avada kast`];export{e as js,t as pug};

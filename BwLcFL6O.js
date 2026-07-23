@@ -1,0 +1,1 @@
+var e=[],t=[`măr`,`banană`,`mandarină`,`Mărul este un fruct comun care este bogat în nutrienți.`,`Banana este un fruct delicios cultivat pe scară largă în zonele tropicale.`,`Portocalele sunt strălucitoare la culoare, suculente și dulci și bogate în vitamina C.`];export{e as js,t as pug};

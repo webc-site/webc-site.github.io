@@ -1,0 +1,1 @@
+var e={},t=[`címlapon`,`felhasználó`,`felállítani`];export{e as js,t as pug};

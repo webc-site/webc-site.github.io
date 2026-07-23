@@ -1,0 +1,1 @@
+var e=[`Tämä on yleinen muistutusviesti`,`Toiminto epäonnistui, yritä uudelleen`],t=[`Poistoaika (sekuntia)`,`Yleisiä vinkkejä`,`Virheilmoitus`];export{e as js,t as pug};

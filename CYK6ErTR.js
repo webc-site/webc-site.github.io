@@ -1,0 +1,1 @@
+var e=[`Daħħal l-isem tal-utent`,`Daħħal il-password`],t=[`Tagħbija indipendenti (.Ing)`,`Maskra tat-tagħbija tal-preżentazzjoni tal-formola (.Ing)`,`Login tal-kont`,`username`,`password`,`Idħol`];export{e as js,t as pug};

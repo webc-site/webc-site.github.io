@@ -1,0 +1,1 @@
+var e=[`thành phần`,`mô tả`],t=[`đang tải`,`dữ liệu trống`,`Có dữ liệu`];export{e as js,t as pug};

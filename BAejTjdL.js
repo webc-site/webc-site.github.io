@@ -1,0 +1,1 @@
+var e={},t=[`Tarxeta predeterminada`,`Fai clic para ir á páxina de detalles`,`Activar tarxeta`,`A tarxeta correspondente á páxina actual`];export{e as js,t as pug};

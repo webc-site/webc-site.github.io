@@ -1,0 +1,1 @@
+var e=[],t=[`sagarra`,`platanoa`,`mandarina`,`Mantenugaietan aberatsa den fruta arrunta da sagarra.`,`Banana eremu tropikaletan hazten den fruta gozoa da.`,`Laranjak kolore distiratsuak dira, mamitsuak eta gozoak, eta C bitaminan aberatsak dira.`];export{e as js,t as pug};

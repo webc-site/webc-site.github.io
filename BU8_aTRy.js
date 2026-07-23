@@ -1,0 +1,1 @@
+var e={},t=[`tudalen flaen`,`defnyddiwr`,`sefydlu`];export{e as js,t as pug};

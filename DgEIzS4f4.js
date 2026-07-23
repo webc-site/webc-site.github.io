@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`alþjóðavæðingu`,"doc/use":`Notaðu íhluti`,"doc/npm":`Birtu NPM pakka`,"doc/dist":`Sýningarstöð á netinu`,"doc/bench":`Viðmið`};export{e as default};

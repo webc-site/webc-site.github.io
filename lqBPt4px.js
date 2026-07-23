@@ -1,0 +1,1 @@
+var e=[`Prosta warstwa wyskakująca`,`Wyskakujące okienko, zaimplementowane w oparciu o okno dialogowe HTML5`,`Jasne`],t=[`Kliknij mnie, aby wyświetlić Box`];export{e as js,t as pug};

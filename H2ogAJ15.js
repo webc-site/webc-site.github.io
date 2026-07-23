@@ -1,0 +1,1 @@
+var e={},t=[`Šis ir teksta fragments, kas kopēts, izmantojot rel`,`Prefiksa teksts ir kopēts pēc noklusējuma`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`rhyngwladoli`,"doc/use":`Defnyddiwch gydrannau`,"doc/npm":`Cyhoeddi pecyn NPM`,"doc/dist":`Gorsaf arddangos ar-lein`,"doc/bench":`Meincnod`};export{e as default};

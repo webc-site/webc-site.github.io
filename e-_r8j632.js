@@ -1,0 +1,1 @@
+var e=[{"":`Startseite`,doc:`dokumentieren`,blog:`Blog`}],t=[`Links werden auf dem Desktop gekachelt angezeigt und auf dem Mobiltelefon in Symbolschaltflächen gefaltet`,`Desktop`,`Kachelanzeige`,`Mobiles Endgerät`,`Klicken Sie auf die Schaltfläche „In Symbol einklappen“ und klicken Sie, um das Seitenmenü auszublenden`];export{e as js,t as pug};

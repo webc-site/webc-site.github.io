@@ -1,0 +1,1 @@
+var e=[`Ini ialah mesej peringatan umum`,`Operasi gagal, sila cuba lagi`],t=[`Masa hilang (saat)`,`Petua am`,`Mesej ralat`];export{e as js,t as pug};

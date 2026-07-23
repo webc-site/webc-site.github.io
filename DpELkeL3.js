@@ -1,0 +1,1 @@
+var e=[],t=[`alma`,`banán`,`mandarin`,`Az alma egy közönséges gyümölcs, amely tápanyagokban gazdag.`,`A banán egy finom gyümölcs, amelyet széles körben termesztenek trópusi területeken.`,`A narancs élénk színű, lédús és édes, valamint gazdag C-vitaminban.`];export{e as js,t as pug};

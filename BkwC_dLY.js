@@ -1,0 +1,1 @@
+var e=[`komponenter`,`beskriva`],t=[`belastning`,`tomma data`,`Det finns data`];export{e as js,t as pug};

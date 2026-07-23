@@ -1,0 +1,1 @@
+var e=[`Engadir a`],t=[`Botón predeterminado`,`botón principal`,`botón de ligazón`,`Botón de icona (.BtnC)`];export{e as js,t as pug};

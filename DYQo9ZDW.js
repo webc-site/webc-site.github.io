@@ -1,0 +1,1 @@
+var e=[`Idagdag sa`],t=[`Default na button`,`pangunahing pindutan`,`pindutan ng link`,`Button ng Icon (.BtnC)`];export{e as js,t as pug};

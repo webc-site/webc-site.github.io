@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`internationalisering`,"doc/use":`Gebruik componenten`,"doc/npm":`NPM-pakket publiceren`,"doc/dist":`Online weergavestation`,"doc/bench":`Benchmark`};export{e as default};

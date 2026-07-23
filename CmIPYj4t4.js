@@ -1,0 +1,1 @@
+var e=[`Acesta este un mesaj de memento general`,`Operațiunea a eșuat, vă rugăm să încercați din nou`],t=[`Timp de dispariție (secunde)`,`Sfaturi generale`,`Mesaj de eroare`];export{e as js,t as pug};

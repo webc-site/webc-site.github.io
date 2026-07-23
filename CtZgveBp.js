@@ -1,0 +1,1 @@
+var e={},t=[`Ini adalah bagian teks yang disalin melalui rel`,`Teks awalan disalin secara default`];export{e as js,t as pug};

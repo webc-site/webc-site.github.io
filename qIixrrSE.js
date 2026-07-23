@@ -1,0 +1,1 @@
+var e={},t=[`Horizontal nga virtual nga scroll bar`,`Vertikal nga virtual scroll bar`];export{e as js,t as pug};

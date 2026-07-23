@@ -1,0 +1,1 @@
+var e=[`basa`,`indeks`],t=[`Basa sing dipilih saiki`];export{e as js,t as pug};

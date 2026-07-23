@@ -1,0 +1,1 @@
+var e=[`Oddiy qalqib chiquvchi qatlam`,`Qalqib chiquvchi oyna, html5 muloqot oynasi asosida amalga oshiriladi`,`Albatta`],t=[`Qutini ochish uchun meni bosing`];export{e as js,t as pug};

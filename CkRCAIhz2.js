@@ -1,0 +1,1 @@
+var e=[`Foydalanuvchi nomini kiriting`,`Parolni kiriting`],t=[`Mustaqil yuklash (.Ing)`,`Shaklni yuklash niqobi (.Ing)`,`Hisobga kirish`,`foydalanuvchi nomi`,`parol`,`Tizimga kirish`];export{e as js,t as pug};

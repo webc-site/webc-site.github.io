@@ -1,0 +1,4 @@
+var e={},t=[`Minimalisme ekstrim`,`WebC.site berfokus pada pembuatan komponen front-end yang murni dan ringan tanpa beban waktu proses.
+Mengandalkan fitur js dan css modern, ini menghadirkan kemungkinan tak terbatas dengan kode yang disempurnakan.`,`Paradigma baru pengembangan front-end di era AI`,`Merangkul sepenuhnya kecerdasan buatan, alur pengembangan yang dirancang untuk pengkodean otomatis.
+Aturan kode disempurnakan seiring waktu, memungkinkan model bahasa besar mengurangi biaya dan meningkatkan efisiensi untuk Anda.`,`Norma visual yang elegan`,`Desain estetika visual menggabungkan efek gerakan mikro yang indah dan tekstur kaca buram.
+Basis putih, sederhana dan murni, membantu Anda menciptakan pengalaman interaksi aplikasi berkualitas tinggi.`];export{e as js,t as pug};

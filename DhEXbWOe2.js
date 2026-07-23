@@ -1,0 +1,1 @@
+var e={},t=[`Bu rel aracılığıyla kopyalanan bir metin parçasıdır`,`Varsayılan olarak kopyalanan önek metni`];export{e as js,t as pug};

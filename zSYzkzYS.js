@@ -1,0 +1,4 @@
+var e={},t=[`Minimalis ekstrem`,`WebC.site fokus ing mbangun komponen ngarep sing murni lan entheng tanpa beban wektu.
+Ngandelake fitur js lan css modern, menehi kemungkinan tanpa wates kanthi kode sing apik.`,`Paradigma anyar kanggo pangembangan ngarep ing jaman AI`,`Lengkapi intelijen buatan, aliran pangembangan sing dirancang kanggo coding otomatis.
+Aturan kode ditapis liwat wektu, ngidini model basa gedhe kanggo ngurangi biaya lan nambah efficiency kanggo sampeyan.`,`Norma visual sing elegan`,`Desain estetika visual nggabungake efek gerakan mikro sing apik banget lan tekstur kaca beku.
+Dasar putih, prasaja lan murni, mbantu sampeyan nggawe pengalaman interaksi aplikasi sing berkualitas tinggi.`];export{e as js,t as pug};

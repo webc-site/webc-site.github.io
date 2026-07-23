@@ -1,0 +1,1 @@
+var e=[`mga bahagi`,`ilarawan`],t=[`naglo-load`,`walang laman na data`,`May data`];export{e as js,t as pug};

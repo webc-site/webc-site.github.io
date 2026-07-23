@@ -1,0 +1,1 @@
+var e=[],t=[`svetainės pavadinimas`,`Susieti vieną`,`Nuoroda du`,`Slinkite puslapiu aukštyn ir žemyn, kad pamatytumėte automatinį viršutinės naršymo juostos sutraukimo ir rodymo efektą.`];export{e as js,t as pug};

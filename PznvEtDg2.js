@@ -1,0 +1,1 @@
+var e={},t=[`Privzeta kartica`,`Kliknite za skok na stran s podrobnostmi`,`Aktiviraj kartico`,`Kartica, ki ustreza trenutni strani`];export{e as js,t as pug};

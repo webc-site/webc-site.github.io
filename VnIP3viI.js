@@ -1,0 +1,1 @@
+var e={},t=[`To je del besedila, kopiran prek rel`,`Besedilo predpone je privzeto kopirano`];export{e as js,t as pug};

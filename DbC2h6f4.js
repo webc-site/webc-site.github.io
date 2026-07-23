@@ -1,0 +1,1 @@
+var e={},t=[`Stat default (mhux imdaħħal)`,`Email`,`Status default`];export{e as js,t as pug};

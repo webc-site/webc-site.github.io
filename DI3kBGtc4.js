@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`ຄວາມເປັນສາກົນ`,"doc/use":`ໃຊ້ອົງປະກອບ`,"doc/npm":`ເຜີຍແຜ່ແພັກເກດ NPM`,"doc/dist":`ສະຖານີສະແດງອອນໄລນ໌`,"doc/bench":`ການປະເມີນມາດຕະຖານ`};export{e as default};

@@ -1,0 +1,1 @@
+var e=[`Eenvoudige opspringlaag`,`Pop-up boks, geïmplementeer gebaseer op html5 dialoog`,`Sekerlik`],t=[`Klik my om Box op te roep`];export{e as js,t as pug};

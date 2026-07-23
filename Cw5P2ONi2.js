@@ -1,0 +1,1 @@
+var e=[`Simpleng popup layer`,`Pop-up box, ipinatupad batay sa html5 dialog`,`Oo naman`],t=[`I-click ako para mag-pop up ng Box`];export{e as js,t as pug};

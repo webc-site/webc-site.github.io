@@ -1,0 +1,1 @@
+var e=[`Żid ma`],t=[`Buttuna default`,`buttuna prinċipali`,`buttuna tal-link`,`Buttuna Ikona (.BtnC)`];export{e as js,t as pug};

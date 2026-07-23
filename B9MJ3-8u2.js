@@ -1,0 +1,1 @@
+var e=[],t=[`manzana`,`banana`,`Mandarina`,`La manzana es una fruta común rica en nutrientes.`,`El plátano es una fruta deliciosa que se cultiva ampliamente en zonas tropicales.`,`Las naranjas son de color brillante, jugosas y dulces y ricas en vitamina C.`];export{e as js,t as pug};

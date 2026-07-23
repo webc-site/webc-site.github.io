@@ -1,0 +1,1 @@
+var e=[`Đây là thông báo nhắc nhở chung`,`Thao tác không thành công, vui lòng thử lại`],t=[`Thời gian biến mất (giây)`,`Lời khuyên chung`,`Thông báo lỗi`];export{e as js,t as pug};

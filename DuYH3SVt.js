@@ -1,0 +1,1 @@
+var e=[{"":`Startpagina`,doc:`document`,blog:`bloggen`}],t=[`Links worden naast elkaar op het bureaublad weergegeven en op de mobiele telefoon in pictogramknoppen gevouwen`,`Bureaublad`,`Tegel weergave`,`Mobiele terminal`,`Samenvouwen tot pictogramknop, klik om uit het zijmenu te schuiven`];export{e as js,t as pug};

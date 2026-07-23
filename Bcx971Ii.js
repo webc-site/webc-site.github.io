@@ -1,0 +1,1 @@
+var e={},t=[`automático`,`Esta es una punta de burbuja.`,`Izquierda`,`bien`,`Abajo`,`superior`];export{e as js,t as pug};

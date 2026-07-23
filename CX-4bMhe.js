@@ -1,0 +1,1 @@
+var e={},t=[`awtomatiko`,`Ito ay isang bubble tip`,`Kaliwa`,`tama`,`Pababa`,`nakatataas`];export{e as js,t as pug};

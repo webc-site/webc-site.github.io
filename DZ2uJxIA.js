@@ -1,0 +1,1 @@
+var e=[`limbă`,`index`],t=[`Limba selectată în prezent`];export{e as js,t as pug};

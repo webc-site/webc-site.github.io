@@ -1,0 +1,1 @@
+var e=[`Enostavna pojavna plast`,`Pojavno okno, implementirano na podlagi pogovornega okna html5`,`seveda`],t=[`Kliknite me, da se prikaže Škatla`];export{e as js,t as pug};

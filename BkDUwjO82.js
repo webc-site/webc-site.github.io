@@ -1,0 +1,1 @@
+var e=[`Idugang sa`],t=[`Default nga buton`,`nag-unang buton`,`buton sa link`,`Butang sa Icon (.BtnC)`];export{e as js,t as pug};

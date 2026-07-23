@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`ndërkombëtarizimi`,"doc/use":`Përdorni komponentë`,"doc/npm":`Publikoni paketën NPM`,"doc/dist":`Stacioni i shfaqjes në internet`,"doc/bench":`Standardi`};export{e as default};

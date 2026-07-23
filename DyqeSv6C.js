@@ -1,0 +1,1 @@
+var e=[`Zadajte používateľské meno`,`Zadajte heslo`],t=[`Nezávislé načítanie (.Ing)`,`Maska načítania odoslania formulára (.Ing)`,`Prihlásenie účtu`,`užívateľské meno`,`heslo`,`Prihláste sa`];export{e as js,t as pug};

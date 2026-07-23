@@ -1,0 +1,1 @@
+var e={},t=[`Vaihtoehto 1`,`Vaihtoehto 2`,`Vaihtoehto 3`,`lähetä`];export{e as js,t as pug};

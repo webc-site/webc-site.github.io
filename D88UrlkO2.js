@@ -1,0 +1,1 @@
+var e=[{"":`Kaca ngarep`,doc:`dokumen`,blog:`blog`}],t=[`Tautan ditampilake kanthi jubin ing desktop lan lempitan dadi tombol lambang ing seluler`,`Desktop`,`Tampilan kothak`,`Terminal seluler`,`Ambruk menyang tombol lambang, klik kanggo geser metu menu sisih`];export{e as js,t as pug};

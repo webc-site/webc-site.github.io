@@ -1,0 +1,1 @@
+var e=[],t=[`enw gwefan`,`Cyswllt un`,`Cyswllt dau`,`Sgroliwch y dudalen i fyny ac i lawr i weld effaith cwymp awtomatig ac arddangos y bar llywio uchaf.`];export{e as js,t as pug};

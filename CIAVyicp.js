@@ -1,0 +1,1 @@
+var e=[`lugha`,`index`],t=[`Lugha iliyochaguliwa kwa sasa`];export{e as js,t as pug};

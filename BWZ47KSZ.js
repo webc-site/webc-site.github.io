@@ -1,0 +1,1 @@
+var e=[{"":`Pagina de start`,doc:`document`,blog:`blog`}],t=[`Linkurile sunt afișate în mosaic pe desktop și pliate în butoane pictograme de pe mobil`,`Desktop`,`Afișaj de faianță`,`Terminal mobil`,`Restrângeți butonul pictogramă, faceți clic pentru a glisa în afara meniului lateral`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Shtresë e thjeshtë kërcyese`,`Kutia kërcyese, e implementuar bazuar në dialogun html5`,`Sigurisht`],t=[`Klikoni mua për të shfaqur Box`];export{e as js,t as pug};

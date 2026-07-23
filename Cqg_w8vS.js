@@ -1,0 +1,4 @@
+var e={},t=[`Shembull i titullit`,`Kornizë xhami e lëngshme.
+Kornizë karte me sfond xhami të mbuluar me brymë dhe gradient skaji.
+I përshtatshëm për ju që ndiqni estetikën e dizajnit.
+`];export{e as js,t as pug};

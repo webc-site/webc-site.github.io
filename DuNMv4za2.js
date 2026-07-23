@@ -1,0 +1,1 @@
+var e={},t=[`avtomatik`,`Bu pufakchali maslahat`,`Chapga`,`to'g'ri`,`Pastga`,`ustun`];export{e as js,t as pug};

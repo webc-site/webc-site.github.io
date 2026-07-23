@@ -1,0 +1,4 @@
+var e={},t=[`Extrém minimalizmus`,`A WebC.site a tiszta, könnyű előtér-komponensek futási idejű terhelés nélkül történő létrehozására összpontosít.
+A modern js és css funkciókra támaszkodva végtelen lehetőségeket kínál finomított kóddal.`,`Új paradigma a front-end fejlesztéshez az AI-korszakban`,`Teljes mértékben magába foglalja a mesterséges intelligenciát, az automatizált kódolásra tervezett fejlesztési folyamatot.
+A kódszabályok idővel finomodnak, így a nagy nyelvi modell csökkentheti a költségeket és növelheti a hatékonyságot.`,`Elegáns vizuális normák`,`A vizuális esztétikai dizájn kiváló mikromozgásos effektusokat és matt üveg textúrát tartalmaz.
+Fehér alap, egyszerű és tiszta, segít létrehozni egy kiváló minőségű alkalmazás-interakciós élményt.`];export{e as js,t as pug};

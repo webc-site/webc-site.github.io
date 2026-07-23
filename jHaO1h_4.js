@@ -1,0 +1,1 @@
+var e=[`İstifadəçi adını daxil edin`,`parol daxil edin`],t=[`Müstəqil yükləmə (.Ing)`,`Forma göndərmə yükləmə maskası (.Ing)`,`Hesaba giriş`,`istifadəçi adı`,`parol`,`Daxil ol`];export{e as js,t as pug};

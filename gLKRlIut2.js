@@ -1,0 +1,1 @@
+var e={},t=[`sākuma lapa`,`lietotājs`,`Iestatījumi`];export{e as js,t as pug};

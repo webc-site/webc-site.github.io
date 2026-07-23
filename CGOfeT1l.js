@@ -1,0 +1,1 @@
+var e=[],t=[`apel`,`gedhang`,`jeruk keprok`,`Apple minangka woh umum sing sugih nutrisi.`,`Gedhang minangka woh sing enak banget ditanam ing wilayah tropis.`,`Jeruk nduweni werna sing padhang, jus lan manis, lan sugih ing vitamin C.`];export{e as js,t as pug};

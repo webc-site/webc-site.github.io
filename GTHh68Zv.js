@@ -1,0 +1,1 @@
+var e={},t=[`Kadi chaguomsingi`,`Bofya ili kuruka kwa ukurasa wa maelezo`,`Washa kadi`,`Kadi inayolingana na ukurasa wa sasa`];export{e as js,t as pug};

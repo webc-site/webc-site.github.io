@@ -1,0 +1,1 @@
+var e=[],t=[`Websäit Numm`,`Link eent`,`Link zwee`,`Scroll w.e.g. d'Säit erop an erof fir den automateschen Zesummebroch an den Affichage Effekt vun der Top Navigatiounsbar ze beobachten.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Jednostavan skočni sloj`,`Skočni okvir, implementiran na temelju html5 dijaloga`,`Naravno`],t=[`Klikni me za iskačući okvir`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Status standar (ora mlebu)`,`Email`,`Status gawan`];export{e as js,t as pug};

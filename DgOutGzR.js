@@ -1,0 +1,1 @@
+var e=[`compoñentes`,`describir`],t=[`cargando`,`datos baleiros`,`Hai datos`];export{e as js,t as pug};

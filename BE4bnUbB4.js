@@ -1,0 +1,1 @@
+var e=[`Šis ir vispārīgs atgādinājuma ziņojums`,`Darbība neizdevās, lūdzu, mēģiniet vēlreiz`],t=[`Pazušanas laiks (sekundēs)`,`Vispārīgi padomi`,`Kļūdas ziņojums`];export{e as js,t as pug};

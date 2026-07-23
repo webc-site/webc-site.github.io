@@ -1,0 +1,1 @@
+var e=[`Sadə popup təbəqəsi`,`Açılan pəncərə html5 dialoqu əsasında həyata keçirilir`,`Əlbəttə`],t=[`Qutunu açmaq üçün mənə klikləyin`];export{e as js,t as pug};

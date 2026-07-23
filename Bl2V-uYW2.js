@@ -1,0 +1,1 @@
+var e={},t=[`Gjendja e parazgjedhur (nuk është futur)`,`Email`,`Statusi i parazgjedhur`];export{e as js,t as pug};

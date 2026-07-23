@@ -1,0 +1,1 @@
+var e={},t=[`Karta domyślna`,`Kliknij, aby przejść do strony szczegółów`,`Aktywuj kartę`,`Karta odpowiadająca bieżącej stronie`];export{e as js,t as pug};

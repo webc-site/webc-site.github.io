@@ -1,0 +1,1 @@
+var e=[`komponen`,`njlèntrèhaké`],t=[`loading`,`data kosong`,`Ana data`];export{e as js,t as pug};

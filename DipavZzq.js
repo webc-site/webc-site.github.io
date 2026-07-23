@@ -1,0 +1,1 @@
+var e=[`Ychwanegu at`],t=[`Botwm diofyn`,`prif botwm`,`botwm cyswllt`,`Botwm Eicon (.BtnC)`];export{e as js,t as pug};

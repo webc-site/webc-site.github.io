@@ -1,0 +1,1 @@
+var e=[],t=[`tuffieħ`,`banana`,`mandarina`,`It-tuffieħ huwa frott komuni li huwa għani fin-nutrijenti.`,`Il-banana hija frotta delizzjuża mkabbra b'mod wiesa 'f'żoni tropikali.`,`Il-larinġ għandu kulur qawwi, mmerraq u ħelu, u rikk fil-vitamina Ċ.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Əlavə et`],t=[`Defolt düymə`,`əsas düymə`,`keçid düyməsi`,`Nişan Düyməsi (.BtnC)`];export{e as js,t as pug};

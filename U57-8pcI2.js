@@ -1,0 +1,1 @@
+var e=[`Sláðu inn notandanafn`,`Sláðu inn lykilorð`],t=[`Sjálfstæð hleðsla (.Ing)`,`Hleðslugríma fyrir eyðublöð (.Ing)`,`Innskráning á reikning`,`notendanafn`,`lykilorð`,`Skráðu þig inn`];export{e as js,t as pug};

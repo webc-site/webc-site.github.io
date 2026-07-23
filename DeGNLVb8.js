@@ -1,0 +1,4 @@
+var e={},t=[`Pananglitan sa titulo`,`Liquid nga bildo nga frame.
+Card frame nga adunay frosted glass background ug edge gradient.
+Angayan alang kanimo nga nagtinguha sa mga aesthetics sa disenyo.
+`];export{e as js,t as pug};

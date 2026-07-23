@@ -1,0 +1,1 @@
+var e=[`Popup geruza sinplea`,`Pop-up koadroa, html5 elkarrizketa-koadroan oinarrituta ezarria`,`Noski`],t=[`Egin klik niri Box agertzeko`];export{e as js,t as pug};

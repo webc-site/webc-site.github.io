@@ -1,0 +1,1 @@
+var e=[],t=[`pangalan ng website`,`I-link ang isa`,`Link dalawa`,`Mangyaring mag-scroll pataas at pababa sa pahina upang obserbahan ang awtomatikong pagbagsak at epekto ng pagpapakita ng tuktok na navigation bar.`];export{e as js,t as pug};

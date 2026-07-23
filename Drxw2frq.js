@@ -1,0 +1,1 @@
+var e=[],t=[`epli`,`banani`,`mandarínu`,`Epli er algengur ávöxtur sem er ríkur af næringarefnum.`,`Banani er ljúffengur ávöxtur sem er mikið ræktaður á suðrænum svæðum.`,`Appelsínur eru bjartar á litinn, safaríkar og sætar og ríkar af C-vítamíni.`];export{e as js,t as pug};

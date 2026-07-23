@@ -1,0 +1,1 @@
+var e=[{"":`Hemsida`,doc:`dokumentera`,blog:`blogg`}],t=[`Länkar visas sida vid sida på skrivbordet och vikta till ikonknappar på mobilen`,`Skrivbord`,`Kakeldisplay`,`Mobil terminal`,`Komprimera till ikonknapp, klicka för att glida ut sidomenyn`];export{e as js,t as pug};

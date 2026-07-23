@@ -1,0 +1,1 @@
+var e={},t=[`automatický`,`Toto je špička bubliny`,`Vlevo`,`právo`,`Dolů`,`lepší`];export{e as js,t as pug};

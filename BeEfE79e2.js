@@ -1,0 +1,1 @@
+var e=[`Bu ümumi xatırlatma mesajıdır`,`Əməliyyat uğursuz oldu, yenidən cəhd edin`],t=[`İtilmə vaxtı (saniyə)`,`Ümumi məsləhətlər`,`Xəta mesajı`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Bu rel vasitəsilə kopyalanmış mətn parçasıdır`,`Defolt olaraq kopyalanan prefiks mətni`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Thẻ mặc định`,`Bấm để chuyển đến trang chi tiết`,`Kích hoạt thẻ`,`Thẻ tương ứng với trang hiện tại`];export{e as js,t as pug};

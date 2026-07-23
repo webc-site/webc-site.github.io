@@ -1,0 +1,4 @@
+var e={},t=[`minimalism iliyokithiri`,`Tovuti ya WebC.tovuti inaangazia kujenga vipengee safi, vyepesi vya mbele bila mzigo wa wakati wa kukimbia.
+Inategemea vipengele vya kisasa vya js na css, inatoa uwezekano usio na kikomo na msimbo ulioboreshwa.`,`Dhana mpya ya maendeleo ya mbele katika enzi ya AI`,`Kubali kikamilifu akili ya bandia, mtiririko wa ukuzaji iliyoundwa kwa usimbaji kiotomatiki.
+Kanuni za kanuni huboreshwa baada ya muda, kuruhusu muundo mkubwa wa lugha kupunguza gharama na kuongeza ufanisi kwako.`,`Kanuni za kuona za kifahari`,`Muundo wa urembo unaoonekana hujumuisha athari nzuri za mwendo mdogo na umbile la glasi iliyoganda.
+Msingi mweupe, rahisi na safi, unaokusaidia kuunda hali ya juu ya matumizi ya mwingiliano.`];export{e as js,t as pug};

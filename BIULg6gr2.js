@@ -1,0 +1,4 @@
+var e={},t=[`Minimalisme extrême`,`WebC.site se concentre sur la création de composants frontaux purs et légers sans charge d'exécution.
+S'appuyant sur des fonctionnalités js et css modernes, il présente des possibilités infinies avec un code raffiné.`,`Un nouveau paradigme pour le développement front-end à l'ère de l'IA`,`Adoptez pleinement l’intelligence artificielle, un flux de développement conçu pour le codage automatisé.
+Les règles du code sont affinées au fil du temps, permettant au modèle de langage étendu de réduire les coûts et d'augmenter l'efficacité pour vous.`,`Normes visuelles élégantes`,`La conception esthétique visuelle intègre des effets de micro-mouvements exquis et une texture de verre dépoli.
+Base blanche, simple et pure, vous aidant à créer une expérience d'interaction avec les applications de haute qualité.`];export{e as js,t as pug};

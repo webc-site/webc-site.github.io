@@ -1,0 +1,1 @@
+var e=[],t=[`mansanas`,`saging`,`tangerine`,`Ang Apple kay kasagarang prutas nga puno sa sustansya.`,`Ang saging usa ka lamian nga prutas nga kaylap nga gipatubo sa tropikal nga mga lugar.`,`Ang mga kahel hayag og kolor, dugaon ug tam-is, ug dato sa bitamina C.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Bæta við`],t=[`Sjálfgefinn hnappur`,`aðalhnappur`,`tengihnappur`,`Táknhnappur (.BtnC)`];export{e as js,t as pug};

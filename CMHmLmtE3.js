@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,"doc/i18n":`nazioartekotzea`,"doc/use":`Erabili osagaiak`,"doc/npm":`Argitaratu NPM paketea`,"doc/dist":`Lineako bistaratzeko geltokia`,"doc/bench":`Oinarrizko ebaluazioa`};export{e as default};

@@ -1,0 +1,1 @@
+var e=[`Einfache Popup-Ebene`,`Popup-Box, basierend auf dem HTML5-Dialog implementiert`,`Sicher`],t=[`Klicken Sie auf mich, um das Popup-Fenster zu öffnen`];export{e as js,t as pug};

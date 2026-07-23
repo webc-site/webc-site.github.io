@@ -1,0 +1,1 @@
+var e={},t=[`Upau wa kusogeza wa mlalo`,`Upau wa kusogeza wima`];export{e as js,t as pug};

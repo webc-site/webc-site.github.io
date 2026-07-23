@@ -1,0 +1,1 @@
+var e={},t=[`trang đầu`,`người dùng`,`cài đặt`];export{e as js,t as pug};

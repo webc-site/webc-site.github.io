@@ -1,0 +1,1 @@
+var e=[],t=[`nafn vefsíðu`,`Tengill einn`,`Tengill tvö`,`Vinsamlega flettu síðuna upp og niður til að fylgjast með sjálfvirku hruni og birtingaráhrifum efstu leiðsögustikunnar.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[],t=[`jeneng situs web`,`Link siji`,`Link loro`,`Gulung kaca munggah lan mudhun kanggo mirsani ambruk otomatis lan efek tampilan garis pandhu arah ndhuwur.`];export{e as js,t as pug};

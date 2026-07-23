@@ -1,0 +1,1 @@
+var e=[`Dit is een algemeen herinneringsbericht`,`De bewerking is mislukt. Probeer het opnieuw`],t=[`Verdwijntijd (seconden)`,`Algemene tips`,`Foutmelding`];export{e as js,t as pug};

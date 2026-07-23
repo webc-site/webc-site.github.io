@@ -1,0 +1,1 @@
+var e={},t=[`Standard Kaart`,`Klickt fir op d'Detailer Säit ze sprangen`,`Kaart aktivéieren`,`D'Kaart entsprécht der aktueller Säit`];export{e as js,t as pug};

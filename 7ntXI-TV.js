@@ -1,0 +1,1 @@
+var e=[{"":`Homepage`,doc:`Dokument`,blog:`blog`}],t=[`Links ginn um Desktop ugewisen an an Ikonknäppercher um Handy geklappt`,`Desktop`,`Fliesen Display`,`Handy Terminal`,`Zesummebroch an Ikon Knäppchen, klickt fir de Säitmenü eraus ze rutschen`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Kjo është një pjesë e tekstit të kopjuar nëpërmjet rel`,`Teksti i parashtesës është kopjuar si parazgjedhje`];export{e as js,t as pug};

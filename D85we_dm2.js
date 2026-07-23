@@ -1,0 +1,1 @@
+var e={},t=[`paġna ta’ quddiem`,`utent`,`imwaqqaf`];export{e as js,t as pug};

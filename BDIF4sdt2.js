@@ -1,0 +1,1 @@
+var e={},t=[`Standaardkaart`,`Klik om naar de detailpagina te gaan`,`Kaart activeren`,`De kaart die overeenkomt met de huidige pagina`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Dodaj v`],t=[`Privzeti gumb`,`glavni gumb`,`gumb za povezavo`,`Ikona gumba (.BtnC)`];export{e as js,t as pug};

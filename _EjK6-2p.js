@@ -1,0 +1,1 @@
+var e={},t=[`Alapértelmezett kártya`,`Kattintson a részletek oldalra ugráshoz`,`Aktiválja a kártyát`,`Az aktuális oldalnak megfelelő kártya`];export{e as js,t as pug};

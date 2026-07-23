@@ -1,0 +1,1 @@
+var e={},t=[`tự động`,`Đây là một mẹo bong bóng`,`Bên trái`,`Phải`,`Xuống`,`thượng đẳng`];export{e as js,t as pug};

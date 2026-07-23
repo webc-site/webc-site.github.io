@@ -1,0 +1,1 @@
+var e={},t=[`ön səhifə`,`istifadəçi`,`qurmaq`];export{e as js,t as pug};

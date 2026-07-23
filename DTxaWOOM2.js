@@ -1,0 +1,1 @@
+var e=[`Dodaj do`],t=[`Domyślny przycisk`,`główny przycisk`,`przycisk łącza`,`Ikona Przycisku (.BtnC)`];export{e as js,t as pug};

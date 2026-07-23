@@ -1,0 +1,1 @@
+var e={},t=[`Kartu bawaan`,`Klik untuk melompat ke halaman detail`,`Aktifkan kartu`,`Kartu yang sesuai dengan halaman saat ini`];export{e as js,t as pug};

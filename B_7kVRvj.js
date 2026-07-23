@@ -1,0 +1,1 @@
+var e=[],t=[`nom du site Web`,`Lien un`,`Lien deux`,`Veuillez faire défiler la page de haut en bas pour observer l'effet de réduction et d'affichage automatique de la barre de navigation supérieure.`];export{e as js,t as pug};

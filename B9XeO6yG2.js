@@ -1,0 +1,1 @@
+var e={},t=[`Barra de rolagem virtual horizontal`,`Barra de rolagem virtual vertical`];export{e as js,t as pug};

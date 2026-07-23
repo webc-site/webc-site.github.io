@@ -1,0 +1,1 @@
+var e=[],t=[`naziv web stranice`,`Link jedan`,`Veza dva`,`Pomičite se po stranici gore i dolje da biste vidjeli efekat automatskog sažimanja i prikaza gornje navigacijske trake.`];export{e as js,t as pug};

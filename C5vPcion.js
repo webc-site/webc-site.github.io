@@ -1,0 +1,1 @@
+var e={},t=[`Dit is een stukje tekst gekopieerd via rel`,`Voorvoegseltekst wordt standaard gekopieerd`];export{e as js,t as pug};

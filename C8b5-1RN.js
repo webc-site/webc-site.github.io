@@ -1,0 +1,1 @@
+var e=[`Capa emergent senzilla`,`Quadre emergent, implementat a partir del diàleg HTML5`,`Segur`],t=[`Feu clic a mi per obrir el quadre`];export{e as js,t as pug};

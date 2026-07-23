@@ -1,0 +1,1 @@
+var e={},t=[`Kini usa ka piraso sa teksto nga gikopya pinaagi sa rel`,`Prefix nga teksto gikopya pinaagi sa default`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`언어`,`색인`],t=[`현재 선택된 언어`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Lisa juurde`],t=[`Vaikimisi nupp`,`põhinupp`,`lingi nupp`,`Ikooninupp (.BtnC)`];export{e as js,t as pug};

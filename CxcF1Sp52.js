@@ -1,0 +1,4 @@
+var e={},t=[`Həddindən artıq minimalizm`,`WebC.site iş vaxtı yükü olmayan təmiz, yüngül ön hissə komponentlərinin yaradılmasına diqqət yetirir.
+Müasir js və css xüsusiyyətlərinə arxalanaraq, zərif kodla sonsuz imkanlar təqdim edir.`,`AI dövründə front-end inkişafı üçün yeni paradiqma`,`Avtomatlaşdırılmış kodlaşdırma üçün nəzərdə tutulmuş inkişaf axını olan süni intellekti tam əhatə edin.
+Kod qaydaları zaman keçdikcə təkmilləşərək, böyük dil modelinə xərcləri azaltmağa və sizin üçün səmərəliliyi artırmağa imkan verir.`,`Eleqant vizual normalar`,`Vizual estetik dizayn incə mikro-hərəkət effektlərini və şaxtalı şüşə teksturasını özündə birləşdirir.
+Ağ baza, sadə və təmiz, yüksək keyfiyyətli tətbiq qarşılıqlı təcrübəsi yaratmağa kömək edir.`];export{e as js,t as pug};

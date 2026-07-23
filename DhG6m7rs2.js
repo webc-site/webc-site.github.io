@@ -1,0 +1,1 @@
+var e={},t=[`Opsyon 1`,`Opsyon 2`,`Opsyon 3`,`isumite`];export{e as js,t as pug};

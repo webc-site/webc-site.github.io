@@ -1,0 +1,1 @@
+var e={},t=[`Đây là một đoạn văn bản được sao chép qua rel`,`Văn bản tiền tố được sao chép theo mặc định`];export{e as js,t as pug};

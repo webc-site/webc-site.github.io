@@ -1,0 +1,1 @@
+var e=[`Entrez le nom d'utilisateur`,`Entrez le mot de passe`],t=[`Chargement indépendant (.Ing)`,`Masque de chargement de soumission de formulaire (.Ing)`,`Connexion au compte`,`nom d'utilisateur`,`mot de passe`,`Se connecter`];export{e as js,t as pug};

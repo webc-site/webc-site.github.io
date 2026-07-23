@@ -1,0 +1,1 @@
+var e={},t=[`Toto je časť textu skopírovaná cez rel`,`Text predpony je predvolene skopírovaný`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Vienkāršs uznirstošais slānis`,`Uznirstošais lodziņš, kas ieviests, pamatojoties uz html5 dialoglodziņu`,`Protams`],t=[`Noklikšķiniet uz manis, lai atvērtu lodziņu`];export{e as js,t as pug};

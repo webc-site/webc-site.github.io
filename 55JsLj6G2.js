@@ -1,0 +1,1 @@
+var e={},t=[`automatisk`,`Det här är ett bubbeltips`,`Vänster`,`rätt`,`Ner`,`överlägsen`];export{e as js,t as pug};

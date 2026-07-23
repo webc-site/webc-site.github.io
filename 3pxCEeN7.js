@@ -1,0 +1,1 @@
+var e={},t=[`Status default (tidak dimasukkan)`,`E-mail`,`Status bawaan`];export{e as js,t as pug};

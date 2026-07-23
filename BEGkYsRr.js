@@ -1,0 +1,1 @@
+var e=[`komponentlar`,`tasvirlab bering`],t=[`yuklash`,`bo'sh ma'lumotlar`,`Ma'lumotlar mavjud`];export{e as js,t as pug};

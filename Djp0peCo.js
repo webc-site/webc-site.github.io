@@ -1,0 +1,1 @@
+var e={},t=[`Horizontalna virtualna traka za pomicanje`,`Okomita virtualna traka za pomicanje`];export{e as js,t as pug};

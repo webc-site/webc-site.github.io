@@ -1,0 +1,1 @@
+var e=document,t=e.body,n=(t,n=e)=>{let r=new CSSStyleSheet,{adoptedStyleSheets:i}=n;return r.replace(t),i.includes(r)||i.push(r),r},r=e.createElement.bind(e),i=(...e)=>e.map(r),a=(e,t)=>{e=`c-`+e,customElements.define(e,t)};export{r as a,n as i,e as n,i as o,a as r,t};

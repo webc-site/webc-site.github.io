@@ -1,0 +1,1 @@
+var e=[{"":`Tudalen gartref`,doc:`dogfen`,blog:`blog`}],t=[`Mae dolenni'n cael eu harddangos wedi'u teilsio ar y bwrdd gwaith a'u plygu i mewn i fotymau eicon ar y ffôn symudol`,`Penbwrdd`,`Arddangosfa teils`,`Terfynell symudol`,`Llewygwch i'r botwm eicon, cliciwch i lithro allan y ddewislen ochr`];export{e as js,t as pug};

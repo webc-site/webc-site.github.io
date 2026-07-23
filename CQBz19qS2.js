@@ -1,0 +1,1 @@
+var e=[`Rhowch enw defnyddiwr`,`Rhowch gyfrinair`],t=[`Llwytho annibynnol (.Ining)`,`Mwgwd llwytho cyflwyno ffurflen (.Ining)`,`Mewngofnodi cyfrif`,`enw defnyddiwr`,`cyfrinair`,`Mewngofnodi`];export{e as js,t as pug};
