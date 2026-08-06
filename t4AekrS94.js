@@ -1,0 +1,1 @@
+var e=[],t=[`jabuka`,`banana`,`mandarina`,`Jabuka je uobičajeno voće koje je bogato hranjivim tvarima.`,`Banana je ukusno voće koje se široko uzgaja u tropskim područjima.`,`Naranče su svijetle boje, sočne i slatke te bogate vitaminom C.`];export{e as js,t as pug};

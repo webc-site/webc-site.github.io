@@ -1,0 +1,1 @@
+import{r as e}from"./DPAvuQny.js";import{t}from"./DgdvpBd_.js";var n=`c-t`,r=(e,r)=>{t(r)(t=>{e.querySelectorAll(n).forEach(e=>{let n=t[e.$];n&&(e.textContent=n,e.style.visibility=`visible`)})})};e(`t`,class extends HTMLElement{connectedCallback(){this.$||(this.$=this.textContent,this.textContent=``)}});export{r as cTranSet};

@@ -1,0 +1,1 @@
+var e=[],t=[`nome do sitio web`,`Enlace un`,`Enlace dous`,`Desprácese pola páxina cara arriba e abaixo para observar o colapso automático e o efecto de visualización da barra de navegación superior.`];export{e as js,t as pug};

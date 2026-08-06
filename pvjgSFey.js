@@ -1,0 +1,1 @@
+var e={},t=[`automàtic`,`Aquesta és una punta de bombolla`,`Esquerra`,`dret`,`Avall`,`superior`];export{e as js,t as pug};

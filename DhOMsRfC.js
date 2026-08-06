@@ -1,0 +1,1 @@
+var e=[`Gehitu`],t=[`Botoi lehenetsia`,`botoi nagusia`,`esteka botoia`,`Ikono-botoia (.BtnC)`];export{e as js,t as pug};

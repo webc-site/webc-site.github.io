@@ -1,0 +1,1 @@
+var e=[`Sprache`,`Index`],t=[`Derzeit ausgewählte Sprache`];export{e as js,t as pug};

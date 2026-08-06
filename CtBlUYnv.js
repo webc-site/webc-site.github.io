@@ -1,0 +1,1 @@
+var e=[`Pridať do`],t=[`Predvolené tlačidlo`,`hlavné tlačidlo`,`tlačidlo odkazu`,`Tlačidlo ikony (.BtnC)`];export{e as js,t as pug};

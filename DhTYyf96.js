@@ -1,0 +1,1 @@
+var e=[`iaith`,`mynegai`],t=[`Iaith a ddewiswyd ar hyn o bryd`];export{e as js,t as pug};

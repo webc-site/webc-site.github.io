@@ -1,0 +1,1 @@
+var e=[`lingwa`,`indiċi`],t=[`Lingwa bħalissa magħżula`];export{e as js,t as pug};

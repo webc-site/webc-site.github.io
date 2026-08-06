@@ -1,0 +1,1 @@
+var e={},t=[`Aceasta este o bucată de text copiată prin rel`,`Textul prefix copiat implicit`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Introduïu el nom d'usuari`,`Introduïu la contrasenya`],t=[`Càrrega independent (.Ing)`,`Màscara de càrrega d'enviament de formularis (.Ing)`,`Inici de sessió al compte`,`nom d'usuari`,`contrasenya`,`Inicieu sessió`];export{e as js,t as pug};

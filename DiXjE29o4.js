@@ -1,0 +1,1 @@
+var e={},t=[`Chaguo 1`,`Chaguo la 2`,`Chaguo la 3`,`wasilisha`];export{e as js,t as pug};

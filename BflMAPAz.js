@@ -1,0 +1,1 @@
+var e=[`Introduza o nome de usuario`,`Introduza o contrasinal`],t=[`Carga independente (.Ing)`,`Máscara de carga de envío de formularios (.Ing)`,`Inicio de sesión da conta`,`nome de usuario`,`contrasinal`,`Iniciar sesión`];export{e as js,t as pug};

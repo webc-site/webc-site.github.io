@@ -1,0 +1,1 @@
+var e={},t=[`awtomatig`,`Mae hwn yn awgrym swigen`,`Chwith`,`iawn`,`I lawr`,`rhagorach`];export{e as js,t as pug};

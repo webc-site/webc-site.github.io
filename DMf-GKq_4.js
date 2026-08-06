@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`ความเป็นสากล`,use:`ใช้ส่วนประกอบ`,npm:`เผยแพร่แพ็คเกจ NPM`,dist:`สถานีแสดงผลออนไลน์`,bench:`เกณฑ์มาตรฐาน`};export{e as default};

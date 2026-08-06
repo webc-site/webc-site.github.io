@@ -1,0 +1,1 @@
+var e={},t=[`Versió`,`1.0.0`,`protocol`,`MIT`,`estat`,`normal`];export{e as js,t as pug};

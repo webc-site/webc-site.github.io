@@ -1,0 +1,1 @@
+var e=[],t=[`tufaha`,`ndizi`,`tangerine`,`Apple ni tunda la kawaida ambalo lina virutubishi vingi.`,`Ndizi ni tunda la ladha linalokuzwa sana katika maeneo ya tropiki.`,`Machungwa yana rangi angavu, yana juisi na tamu, na ina vitamini C nyingi.`];export{e as js,t as pug};

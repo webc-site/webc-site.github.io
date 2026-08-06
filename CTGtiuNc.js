@@ -1,0 +1,1 @@
+var e=[`Sisesta kasutajanimi`,`Sisestage parool`],t=[`Sõltumatu laadimine (.Ing)`,`Vormi esitamise laadimismask (.Ing)`,`Konto sisselogimine`,`kasutajanimi`,`parool`,`Logi sisse`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Valkostur 1`,`Valkostur 2`,`Valkostur 3`,`leggja fram`];export{e as js,t as pug};

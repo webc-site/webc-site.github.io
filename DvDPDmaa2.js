@@ -1,0 +1,1 @@
+var e=[`Egiaztapen-kodea agertuko da...`,`Egiaztapena arrakastatsua da`,`Bertan behera utzita`],t=[`Proba egiaztatzeko kodea`];export{e as js,t as pug};

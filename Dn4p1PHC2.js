@@ -1,0 +1,1 @@
+var e=[{"":`Hjemmeside`,doc:`dokument`,blog:`blogg`}],t=[`Lenker vises flislagt på skrivebordet og foldet til ikonknapper på mobilen`,`Skrivebord`,`Tile display`,`Mobil terminal`,`Skjul inn i ikonknapp, klikk for å skyve ut sidemenyen`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Verifikasiekode verskyn...`,`Verifikasie suksesvol`,`Gekanselleer`],t=[`Toets verifikasie kode`];export{e as js,t as pug};

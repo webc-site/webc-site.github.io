@@ -1,0 +1,1 @@
+var e={},t=[`automaattinen`,`Tämä on kuplan kärki`,`Vasen`,`oikein`,`Alas`,`ylivoimainen`];export{e as js,t as pug};

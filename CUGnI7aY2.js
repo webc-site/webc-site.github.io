@@ -1,0 +1,4 @@
+var e={},t=[`Minimaliżmu estrem`,`WebC.site jiffoka fuq il-bini ta 'komponenti ta' front-end puri u ħfief mingħajr ebda piż ta 'runtime.
+Filwaqt li bbażat ruħha fuq karatteristiċi moderni js u css, tippreżenta possibbiltajiet infiniti b'kodiċi raffinat.`,`Paradigma ġdida għall-iżvilupp front-end fl-era tal-IA`,`Tħaddan bis-sħiħ l-intelliġenza artifiċjali, fluss ta 'żvilupp iddisinjat għal kodifikazzjoni awtomatizzata.
+Ir-regoli tal-kodiċi huma rfinuti maż-żmien, u jippermettu li l-mudell tal-lingwa kbira jnaqqas l-ispejjeż u jżid l-effiċjenza għalik.`,`Normi ​​viżwali eleganti`,`Id-disinn estetiku viżwali jinkorpora effetti ta 'mikro-moviment exquisite u nisġa tal-ħġieġ matt.
+Bażi bajda, sempliċi u pura, tgħinek toħloq esperjenza ta 'interazzjoni ta' applikazzjoni ta 'kwalità għolja.`];export{e as js,t as pug};

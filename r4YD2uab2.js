@@ -1,0 +1,1 @@
+var e=[{"":`Mājas lapa`,doc:`dokumentu`,blog:`emuārs`}],t=[`Saites tiek parādītas darbvirsmā un salocītas ikonu pogās mobilajā tālrunī`,`Darbvirsma`,`Flīžu displejs`,`Mobilais terminālis`,`Sakļaut ikonas pogā, noklikšķiniet, lai izbīdītu sānu izvēlni`];export{e as js,t as pug};

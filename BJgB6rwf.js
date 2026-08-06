@@ -1,0 +1,4 @@
+var e={},t=[`Minimalismo extremo`,`WebC.site céntrase na construción de compoñentes front-end puros e lixeiros sen carga de execución.
+Baseándose nas funcións js e css modernas, presenta infinitas posibilidades cun código refinado.`,`Un novo paradigma para o desenvolvemento front-end na era da IA`,`Adopta plenamente a intelixencia artificial, un fluxo de desenvolvemento deseñado para a codificación automatizada.
+As regras do código vanse refinando co paso do tempo, o que permite que o gran modelo de linguaxe reduza os custos e aumente a eficiencia.`,`Normas visuais elegantes`,`O deseño estético visual incorpora exquisitos efectos de micro-movemento e textura de vidro xeado.
+Base branca, sinxela e pura, que che axuda a crear unha experiencia de interacción con aplicacións de alta calidade.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={"2026/publish":[`Vai in linea`,`inizia la storia`,`2026-07-27`]};export{e as default};

@@ -1,0 +1,1 @@
+var e=[`Bekræftelseskode dukker op...`,`Bekræftelsen lykkedes`,`Annulleret`],t=[`Test bekræftelseskode`];export{e as js,t as pug};

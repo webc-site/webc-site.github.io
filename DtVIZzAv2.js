@@ -1,0 +1,1 @@
+var e=[],t=[`verkkosivuston nimi`,`Linkitä yksi`,`Linkki kaksi`,`Vieritä sivua ylös ja alas nähdäksesi ylänavigointipalkin automaattisen tiivistyksen ja näyttövaikutuksen.`];export{e as js,t as pug};

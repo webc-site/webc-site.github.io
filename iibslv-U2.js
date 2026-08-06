@@ -1,0 +1,1 @@
+var e={"2026/publish":[`Mag-online`,`magsisimula ang kwento`,`2026-07-27`]};export{e as default};

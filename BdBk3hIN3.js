@@ -1,0 +1,1 @@
+var e=[`Dëst ass eng allgemeng Erënnerung Message`,`Operatioun ass gescheitert, probéiert w.e.g. nach eng Kéier`],t=[`Verschwannenzäit (Sekonnen)`,`Allgemeng Tipps`,`Feeler Message`];export{e as js,t as pug};

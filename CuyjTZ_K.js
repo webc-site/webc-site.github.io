@@ -1,0 +1,1 @@
+var e={},t=[`Numatytoji kortelė`,`Spustelėkite, kad pereitumėte į išsamios informacijos puslapį`,`Suaktyvinti kortelę`,`Kortelė, atitinkanti dabartinį puslapį`];export{e as js,t as pug};

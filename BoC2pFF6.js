@@ -1,0 +1,1 @@
+var e={},t=[`Este es un fragmento de texto copiado vía rel.`,`Texto de prefijo copiado por defecto`];export{e as js,t as pug};

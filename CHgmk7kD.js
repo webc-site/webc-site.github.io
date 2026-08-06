@@ -1,0 +1,4 @@
+var e={},t=[`Ekstrem minimalisme`,`WebC.site fokuserer på å bygge rene, lette front-end-komponenter uten kjøretidsbelastning.
+Basert på moderne js- og css-funksjoner, gir den uendelige muligheter med raffinert kode.`,`Et nytt paradigme for front-end-utvikling i AI-tiden`,`Omfavn kunstig intelligens fullt ut, en utviklingsflyt designet for automatisert koding.
+Koderegler foredles over tid, slik at den store språkmodellen kan redusere kostnadene og øke effektiviteten for deg.`,`Elegante visuelle normer`,`Den visuelle estetiske designen inneholder utsøkte mikrobevegelseseffekter og frostet glasstekstur.
+Hvit base, enkel og ren, hjelper deg å skape en høykvalitets appinteraksjonsopplevelse.`];export{e as js,t as pug};

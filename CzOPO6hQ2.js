@@ -1,0 +1,1 @@
+var e=[`Pridėti prie`],t=[`Numatytasis mygtukas`,`pagrindinis mygtukas`,`nuorodos mygtuką`,`Piktogramos mygtukas (.BtnC)`];export{e as js,t as pug};

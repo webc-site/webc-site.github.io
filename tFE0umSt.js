@@ -1,0 +1,1 @@
+var e=[`pinulongan`,`indeks`],t=[`Pinili nga pinulongan karon`];export{e as js,t as pug};

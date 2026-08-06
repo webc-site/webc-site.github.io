@@ -1,0 +1,1 @@
+var e={},t=[`Bar skrol maya mendatar`,`Bar skrol maya menegak`];export{e as js,t as pug};

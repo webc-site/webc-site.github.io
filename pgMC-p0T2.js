@@ -1,0 +1,1 @@
+var e=[`Masukkan nama pengguna`,`Masukkan kata sandi`],t=[`Pemuatan independen (.Ing)`,`Masker pemuatan pengiriman formulir (.Ing)`,`Masuk akun`,`nama belakang`,`kata sandi`,`Masuk`];export{e as js,t as pug};

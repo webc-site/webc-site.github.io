@@ -1,0 +1,1 @@
+var e=[`komponenty`,`opisać`],t=[`załadunek`,`puste dane`,`Są dane`];export{e as js,t as pug};

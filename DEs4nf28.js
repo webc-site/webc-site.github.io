@@ -1,0 +1,1 @@
+var e=[`hizkuntza`,`aurkibidea`],t=[`Une honetan hautatutako hizkuntza`];export{e as js,t as pug};

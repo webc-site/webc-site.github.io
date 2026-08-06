@@ -1,0 +1,1 @@
+var e={},t=[`Poziomy wirtualny pasek przewijania`,`Pionowy wirtualny pasek przewijania`];export{e as js,t as pug};

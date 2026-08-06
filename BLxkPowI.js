@@ -1,0 +1,1 @@
+var e=[{"":`Pàgina d'inici`,doc:`document`,blog:`bloc`}],t=[`Els enllaços es mostren en rajoles a l'escriptori i es dobleguen en botons d'icones al mòbil`,`Escriptori`,`Visualització de rajoles`,`Terminal mòbil`,`Replega al botó d'icona, fes clic per lliscar el menú lateral`];export{e as js,t as pug};

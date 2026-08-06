@@ -1,0 +1,1 @@
+var e=[`Unesite korisničko ime`,`Unesite lozinku`],t=[`Nezavisno učitavanje (.Ing)`,`Maska za učitavanje za podnošenje obrasca (.Ing)`,`Prijava na račun`,`korisničko ime`,`lozinka`,`Prijavite se`];export{e as js,t as pug};

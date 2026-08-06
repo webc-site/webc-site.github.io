@@ -1,0 +1,1 @@
+var e=[`komponentai`,`apibūdinti`],t=[`pakrovimas`,`tušti duomenys`,`Yra duomenų`];export{e as js,t as pug};

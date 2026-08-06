@@ -1,0 +1,1 @@
+var e={},t=[`Vodoravni virtualni drsni trak`,`Navpični virtualni drsni trak`];export{e as js,t as pug};

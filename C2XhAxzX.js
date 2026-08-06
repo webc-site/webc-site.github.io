@@ -1,0 +1,1 @@
+var e=[`Hinzufügen zu`],t=[`Standardschaltfläche`,`Haupttaste`,`Link-Button`,`Symbolschaltfläche (.BtnC)`];export{e as js,t as pug};

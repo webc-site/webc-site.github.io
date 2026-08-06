@@ -1,0 +1,1 @@
+var e=e=>{for(;e;e=e.parentElement||e.getRootNode()?.host)if(e.tagName===`C-VS`)return e.shadowRoot.firstChild};export{e as t};

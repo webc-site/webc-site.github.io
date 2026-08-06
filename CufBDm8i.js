@@ -1,0 +1,1 @@
+var e={},t=[`Card implicit`,`Faceți clic pentru a sări la pagina de detalii`,`Activați cardul`,`Cardul corespunzător paginii curente`];export{e as js,t as pug};

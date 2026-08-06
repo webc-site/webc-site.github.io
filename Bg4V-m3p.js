@@ -1,0 +1,1 @@
+var e=[],t=[`tên trang web`,`Liên kết một`,`Liên kết hai`,`Vui lòng cuộn trang lên xuống để quan sát hiệu ứng tự động thu gọn và hiển thị của thanh điều hướng trên cùng.`];export{e as js,t as pug};

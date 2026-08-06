@@ -1,0 +1,1 @@
+var e={},t=[`forsíðu`,`notandi`,`sett upp`];export{e as js,t as pug};

@@ -1,0 +1,4 @@
+var e={},t=[`Ekstrēms minimālisms`,`WebC.site koncentrējas uz tīru, vieglu priekšgala komponentu izveidi bez izpildlaika sloga.
+Paļaujoties uz mūsdienu js un css funkcijām, tas piedāvā bezgalīgas iespējas ar izsmalcinātu kodu.`,`Jauna paradigma priekšgala izstrādei AI laikmetā`,`Pilnībā iekļaujiet mākslīgo intelektu\xA0— attīstības plūsmu, kas paredzēta automatizētai kodēšanai.
+Koda noteikumi laika gaitā tiek pilnveidoti, ļaujot lielajam valodas modelim samazināt izmaksas un palielināt efektivitāti.`,`Eleganta vizuālā norma`,`Vizuāli estētiskais dizains ietver izsmalcinātus mikrokustības efektus un matēta stikla tekstūru.
+Balta pamatne, vienkārša un tīra, palīdzot jums izveidot augstas kvalitātes lietojumprogrammu mijiedarbības pieredzi.`];export{e as js,t as pug};

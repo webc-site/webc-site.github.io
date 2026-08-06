@@ -1,0 +1,1 @@
+var e={},t=[`automatyczny`,`To jest wskazówka dotycząca bańki`,`Lewy`,`Prawidłowy`,`W dół`,`znakomity`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[],t=[`websitenaam`,`Koppel er één`,`Koppel twee`,`Blader op en neer over de pagina om het automatische samenvouw- en weergave-effect van de bovenste navigatiebalk te observeren.`];export{e as js,t as pug};

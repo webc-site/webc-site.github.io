@@ -1,0 +1,1 @@
+var e=[`qo'shish`],t=[`Standart tugma`,`asosiy tugma`,`havola tugmasi`,`Belgi tugmasi (.BtnC)`];export{e as js,t as pug};

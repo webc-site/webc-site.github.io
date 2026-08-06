@@ -1,0 +1,1 @@
+var e=[],t=[`Apfel`,`Banane`,`Mandarine`,`Apfel ist eine gewöhnliche Frucht, die reich an Nährstoffen ist.`,`Banane ist eine köstliche Frucht, die in tropischen Gebieten weit verbreitet ist.`,`Orangen haben eine leuchtende Farbe, sind saftig und süß und reich an Vitamin C.`];export{e as js,t as pug};

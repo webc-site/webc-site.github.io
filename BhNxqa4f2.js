@@ -1,0 +1,1 @@
+var e={},t=[`atubangan nga panid`,`tiggamit`,`gipahimutang`];export{e as js,t as pug};

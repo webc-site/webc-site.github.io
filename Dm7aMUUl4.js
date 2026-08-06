@@ -1,0 +1,1 @@
+var e=[`Huu ni ujumbe wa ukumbusho wa jumla`,`Uendeshaji haukufaulu, tafadhali jaribu tena`],t=[`Muda wa kutoweka (sekunde)`,`Vidokezo vya jumla`,`Ujumbe wa hitilafu`];export{e as js,t as pug};

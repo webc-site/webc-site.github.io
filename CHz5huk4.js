@@ -1,0 +1,1 @@
+var e=[`sastāvdaļas`,`aprakstīt`],t=[`iekraušana`,`tukši dati`,`Ir dati`];export{e as js,t as pug};

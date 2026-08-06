@@ -1,0 +1,1 @@
+var e={},t=[`1.\xA0iespēja`,`2. iespēja`,`3. iespēja`,`iesniegt`];export{e as js,t as pug};

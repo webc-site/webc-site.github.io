@@ -1,0 +1,1 @@
+var e=[{"":`Laman utama`,doc:`dokumen`,blog:`blog`}],t=[`Pautan dipaparkan berjubin pada desktop dan dilipat menjadi butang ikon pada mudah alih`,`Desktop`,`Paparan jubin`,`Terminal mudah alih`,`Runtuhkan ke dalam butang ikon, klik untuk meluncur keluar menu sisi`];export{e as js,t as pug};

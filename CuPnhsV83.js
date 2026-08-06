@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`internacionalizācija`,use:`Izmantojiet sastāvdaļas`,npm:`Publicējiet NPM pakotni`,dist:`Tiešsaistes displeja stacija`,bench:`Etalons`};export{e as default};

@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`nemzetközivé válás`,use:`Használjon komponenseket`,npm:`NPM-csomag közzététele`,dist:`Online megjelenítő állomás`,bench:`Benchmark`};export{e as default};

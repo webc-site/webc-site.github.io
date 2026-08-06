@@ -1,0 +1,1 @@
+var e={},t=[`samodejno`,`To je konica z mehurčki`,`levo`,`desno`,`Dol`,`nadrejeni`];export{e as js,t as pug};

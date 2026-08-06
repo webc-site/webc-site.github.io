@@ -1,0 +1,1 @@
+var e=[`Bestätigungscode erscheint...`,`Verifizierung erfolgreich`,`Abgesagt`],t=[`Testbestätigungscode`];export{e as js,t as pug};

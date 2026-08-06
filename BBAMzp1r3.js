@@ -1,0 +1,1 @@
+var e=[],t=[`jabolko`,`banana`,`mandarina`,`Jabolko je običajno sadje, ki je bogato s hranili.`,`Banana je okusen sadež, ki ga pogosto gojijo v tropskih območjih.`,`Pomaranče so svetle barve, sočne in sladke ter bogate z vitaminom C.`];export{e as js,t as pug};

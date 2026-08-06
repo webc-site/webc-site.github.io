@@ -1,0 +1,1 @@
+var e=[`Kod pengesahan muncul...`,`Pengesahan berjaya`,`Dibatalkan`],t=[`Kod pengesahan ujian`];export{e as js,t as pug};

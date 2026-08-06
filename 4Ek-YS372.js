@@ -1,0 +1,1 @@
+var e={},t=[`Din hija biċċa test ikkupjata permezz ta' rel`,`Test tal-prefiss ikkupjat awtomatikament`];export{e as js,t as pug};

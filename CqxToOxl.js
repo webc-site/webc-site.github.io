@@ -1,0 +1,1 @@
+var e={},t=[`Horisontal virtuell rullefelt`,`Vertikal virtuell rullefelt`];export{e as js,t as pug};

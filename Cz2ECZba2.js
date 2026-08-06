@@ -1,0 +1,4 @@
+var e={},t=[`Extrem Minimalismus`,`WebC.site konzentréiert sech op reng, liicht Front-End Komponenten ouni Runtime Belaaschtung ze bauen.
+Vertrauen op modern js an css Funktiounen, et stellt onendlech Méiglechkeeten mat raffinéierte Code.`,`En neit Paradigma fir Front-End Entwécklung an der AI Ära`,`Ganz ëmfaassend kënschtlech Intelligenz, en Entwécklungsfloss entworf fir automatiséiert Kodéierung.
+Code Regelen sinn mat der Zäit raffinéiert, wat erlaabt de grousse Sproochemodell Käschten ze reduzéieren an d'Effizienz fir Iech ze erhéijen.`,`Elegant visuell Normen`,`De visuellen ästheteschen Design integréiert exquisite Mikrobewegungseffekter a frostéiert Glastextur.
+Wäiss Basis, einfach a reng, hëlleft Iech eng héichqualitativ Applikatioun Interaktiounserfarung ze kreéieren.`];export{e as js,t as pug};

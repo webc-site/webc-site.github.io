@@ -1,0 +1,1 @@
+var e={"2026/publish":[`Mur online`,`tibda l-istorja`,`2026-07-27`]};export{e as default};

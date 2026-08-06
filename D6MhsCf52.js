@@ -1,0 +1,1 @@
+var e={},t=[`Bar sgrolio rhithwir llorweddol`,`Bar sgrolio rhithwir fertigol`];export{e as js,t as pug};

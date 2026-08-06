@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`rhyngwladoli`,use:`Defnyddiwch gydrannau`,npm:`Cyhoeddi pecyn NPM`,dist:`Gorsaf arddangos ar-lein`,bench:`Meincnod`};export{e as default};

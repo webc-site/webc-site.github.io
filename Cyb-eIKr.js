@@ -1,0 +1,1 @@
+var e=[`Capa emergente simple`,`Cuadro emergente, implementado según el cuadro de diálogo html5`,`Seguro`],t=[`Haz clic en mí para abrir el cuadro`];export{e as js,t as pug};

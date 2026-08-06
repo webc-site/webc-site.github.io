@@ -1,0 +1,1 @@
+var e=[`Doğrulama kodu açılır…`,`Doğrulama uğurlu oldu`,`Ləğv edildi`],t=[`Test doğrulama kodu`];export{e as js,t as pug};

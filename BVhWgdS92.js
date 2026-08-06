@@ -1,0 +1,1 @@
+var e=[],t=[`ngalan sa website`,`Link usa`,`Link duha`,`Palihug i-scroll ang panid pataas ug paubos aron maobserbahan ang awtomatikong pagkahugno ug ipakita ang epekto sa ibabaw nga navigation bar.`];export{e as js,t as pug};

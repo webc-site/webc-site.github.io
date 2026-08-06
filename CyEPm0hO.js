@@ -1,0 +1,1 @@
+var e={},t=[`automatisk`,`Dette er et bobletips`,`Igjen`,`høyre`,`Ned`,`overlegen`];export{e as js,t as pug};

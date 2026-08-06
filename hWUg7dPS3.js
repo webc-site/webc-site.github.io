@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`internasionalisasi`,use:`Gunakan komponen`,npm:`Publikasikan paket NPM`,dist:`Stasiun tampilan online`,bench:`Tolok ukur`};export{e as default};

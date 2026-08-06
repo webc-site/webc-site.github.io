@@ -1,0 +1,1 @@
+var e={},t=[`Standart karta`,`Tafsilotlar sahifasiga o'tish uchun bosing`,`Kartani faollashtirish`,`Joriy sahifaga mos keladigan karta`];export{e as js,t as pug};

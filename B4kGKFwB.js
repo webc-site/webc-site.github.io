@@ -1,0 +1,1 @@
+var e=[`Iššoka patvirtinimo kodas…`,`Patvirtinimas sėkmingas`,`Atšaukta`],t=[`Išbandykite patvirtinimo kodą`];export{e as js,t as pug};

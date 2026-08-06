@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`بین الاقوامی کاری`,use:`اجزاء استعمال کریں۔`,npm:`NPM پیکیج شائع کریں۔`,dist:`آن لائن ڈسپلے اسٹیشن`,bench:`بینچ مارک`};export{e as default};

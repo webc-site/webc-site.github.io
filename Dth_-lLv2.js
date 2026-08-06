@@ -1,0 +1,1 @@
+var e=[],t=[`Website-Name`,`Verlinke einen`,`Verknüpfe zwei`,`Bitte scrollen Sie auf der Seite nach oben und unten, um den automatischen Minimierungs- und Anzeigeeffekt der oberen Navigationsleiste zu beobachten.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`kaca ngarep`,`panganggo`,`nyetel`];export{e as js,t as pug};

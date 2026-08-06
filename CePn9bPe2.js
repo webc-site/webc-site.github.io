@@ -1,0 +1,4 @@
+var e={},t=[`Minimalis yang melampau`,`WebC.site memfokuskan pada membina komponen bahagian hadapan yang tulen dan ringan tanpa beban masa jalan.
+Bergantung pada ciri js dan css moden, ia membentangkan kemungkinan yang tidak terhingga dengan kod yang diperhalusi.`,`Paradigma baharu untuk pembangunan bahagian hadapan dalam era AI`,`Terima sepenuhnya kecerdasan buatan, aliran pembangunan yang direka untuk pengekodan automatik.
+Peraturan kod diperhalusi dari semasa ke semasa, membolehkan model bahasa besar mengurangkan kos dan meningkatkan kecekapan untuk anda.`,`Norma visual yang elegan`,`Reka bentuk estetik visual menggabungkan kesan gerakan mikro yang indah dan tekstur kaca beku.
+Asas putih, ringkas dan tulen, membantu anda mencipta pengalaman interaksi aplikasi berkualiti tinggi.`];export{e as js,t as pug};

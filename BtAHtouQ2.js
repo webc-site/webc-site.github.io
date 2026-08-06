@@ -1,0 +1,1 @@
+var e=[`Vahvistuskoodi tulee näkyviin...`,`Vahvistus onnistui`,`Peruutettu`],t=[`Testaa vahvistuskoodia`];export{e as js,t as pug};

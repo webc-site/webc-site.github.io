@@ -1,0 +1,1 @@
+var e={},t=[`Desplazamendu-barra birtual horizontala`,`Desplazamendu-barra birtual bertikala`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Vandret virtuel rullepanel`,`Lodret virtuel rullepanel`];export{e as js,t as pug};

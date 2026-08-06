@@ -1,0 +1,1 @@
+var e=[`Þetta er almenn áminningarskilaboð`,`Aðgerð mistókst, vinsamlegast reyndu aftur`],t=[`Hvarftími (sekúndur)`,`Almenn ráð`,`Villuboð`];export{e as js,t as pug};

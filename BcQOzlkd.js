@@ -1,0 +1,4 @@
+var e={},t=[`Sobrang minimalism`,`Nakatuon ang WebC.site sa pagbuo ng dalisay, magaan na front-end na bahagi na walang runtime na pasanin.
+Umaasa sa modernong js at css na mga tampok, ito ay nagpapakita ng walang katapusang mga posibilidad na may pinong code.`,`Isang bagong paradigm para sa front-end na pag-unlad sa panahon ng AI`,`Ganap na yakapin ang artificial intelligence, isang development flow na idinisenyo para sa automated coding.
+Ang mga panuntunan sa code ay pinino sa paglipas ng panahon, na nagpapahintulot sa malaking modelo ng wika na bawasan ang mga gastos at pataasin ang kahusayan para sa iyo.`,`Mga eleganteng visual na pamantayan`,`Ang visual aesthetic na disenyo ay nagsasama ng mga katangi-tanging micro-motion effect at frosted glass texture.
+White base, simple at dalisay, na tumutulong sa iyong lumikha ng isang de-kalidad na karanasan sa pakikipag-ugnayan sa application.`];export{e as js,t as pug};

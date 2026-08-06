@@ -1,0 +1,1 @@
+var e=[`Safu ibukizi rahisi`,`Kisanduku ibukizi, kinachotekelezwa kulingana na kidirisha cha html5`,`Hakika`],t=[`Bonyeza mimi pop up Box`];export{e as js,t as pug};

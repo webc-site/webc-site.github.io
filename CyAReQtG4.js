@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`beynəlmiləlləşmə`,use:`Komponentlərdən istifadə edin`,npm:`NPM paketini dərc edin`,dist:`Onlayn ekran stansiyası`,bench:`Benchmark qiymətləndirmə`};export{e as default};

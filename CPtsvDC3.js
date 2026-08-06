@@ -1,0 +1,1 @@
+var e=[`Indtast brugernavn`,`Indtast adgangskode`],t=[`Uafhængig indlæsning (.Ing)`,`Indlæsningsmaske til formularindsendelse (.Ing)`,`Konto login`,`brugernavn`,`adgangskode`,`Log ind`];export{e as js,t as pug};

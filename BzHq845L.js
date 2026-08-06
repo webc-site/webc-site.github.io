@@ -1,0 +1,1 @@
+var e=[`Kullanıcı adını girin`,`Şifreyi girin`],t=[`Bağımsız yükleme (.Ing)`,`Form gönderimi yükleme maskesi (.Ing)`,`Hesap girişi`,`kullanıcı adı`,`şifre`,`Giriş yapmak`];export{e as js,t as pug};

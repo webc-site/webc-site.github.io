@@ -1,0 +1,1 @@
+var e={},t=[`Horizontāla virtuālā ritjosla`,`Vertikālā virtuālā ritjosla`];export{e as js,t as pug};

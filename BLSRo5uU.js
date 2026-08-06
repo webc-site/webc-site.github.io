@@ -1,0 +1,1 @@
+var e=[{"":`Panid sa balay`,doc:`dokumento`,blog:`blog`}],t=[`Ang mga link gipakita nga naka-tile sa desktop ug gipilo sa mga buton sa icon sa mobile`,`Desktop`,`Tile display`,`Mobile nga terminal`,`I-collapse sa icon nga buton, i-klik aron i-slide ang side menu`];export{e as js,t as pug};

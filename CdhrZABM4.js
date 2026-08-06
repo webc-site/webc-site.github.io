@@ -1,0 +1,1 @@
+var e=[`See on üldine meeldetuletussõnum`,`Toiming ebaõnnestus, proovige uuesti`],t=[`Kadumise aeg (sekundites)`,`Üldised näpunäited`,`Veateade`];export{e as js,t as pug};

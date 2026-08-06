@@ -1,0 +1,1 @@
+var e={},t=[`Dyma ddarn o destun wedi ei gopïo drwy rel`,`Testun rhagddodiad wedi'i gopïo yn ddiofyn`];export{e as js,t as pug};

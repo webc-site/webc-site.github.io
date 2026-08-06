@@ -1,0 +1,1 @@
+var e=[`sprog`,`indeks`],t=[`Det valgte sprog i øjeblikket`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[],t=[`numele site-ului web`,`Link unul`,`Link doi`,`Derulați pagina în sus și în jos pentru a observa efectul automat de colaps și afișare al barei de navigare de sus.`];export{e as js,t as pug};

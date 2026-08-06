@@ -1,0 +1,1 @@
+var e={},t=[`Sjálfgefið kort`,`Smelltu til að fara á upplýsingasíðuna`,`Virkjaðu kort`,`Kortið sem samsvarar núverandi síðu`];export{e as js,t as pug};

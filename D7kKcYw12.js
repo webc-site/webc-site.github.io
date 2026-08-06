@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`rahvusvahelistumine`,use:`Kasutage komponente`,npm:`Avalda NPM-pakett`,dist:`Interneti-ekraanijaam`,bench:`Võrdlusnäitaja`};export{e as default};

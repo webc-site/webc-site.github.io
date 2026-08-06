@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`internasyonalisasyon`,use:`Gumamit ng mga bahagi`,npm:`I-publish ang NPM package`,dist:`Online na istasyon ng pagpapakita`,bench:`Benchmark`};export{e as default};

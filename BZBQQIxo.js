@@ -1,0 +1,4 @@
+var e={},t=[`Uiterste minimalisme`,`WebC.site fokus op die bou van suiwer, liggewig front-end komponente met geen looptyd las.
+Deur op moderne js- en css-kenmerke staat te maak, bied dit oneindige moontlikhede met verfynde kode.`,`'n Nuwe paradigma vir front-end-ontwikkeling in die KI-era`,`Omhels kunsmatige intelligensie ten volle, 'n ontwikkelingsvloei wat ontwerp is vir outomatiese kodering.
+Kodereëls word mettertyd verfyn, wat die groot taalmodel in staat stel om koste te verminder en doeltreffendheid vir jou te verhoog.`,`Elegante visuele norme`,`Die visuele estetiese ontwerp sluit pragtige mikro-beweging-effekte en matglastekstuur in.
+Wit basis, eenvoudig en suiwer, wat jou help om 'n toepassingsinteraksie-ervaring van hoë gehalte te skep.`];export{e as js,t as pug};

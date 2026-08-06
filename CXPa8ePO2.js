@@ -1,0 +1,1 @@
+var e={},t=[`Tarjeta predeterminada`,`Haga clic para ir a la página de detalles`,`Activar tarjeta`,`La tarjeta correspondiente a la página actual.`];export{e as js,t as pug};

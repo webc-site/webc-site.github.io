@@ -1,0 +1,1 @@
+var e=[],t=[`apel`,`banana`,`tangerine`,`Apple ass eng allgemeng Uebst déi reich an Nährstoffer ass.`,`Bananen ass eng lecker Uebst déi wäit an tropesche Beräicher ugebaut gëtt.`,`Orangen si hell a Faarf, saftbar a séiss, a reich an Vitamin C.`];export{e as js,t as pug};

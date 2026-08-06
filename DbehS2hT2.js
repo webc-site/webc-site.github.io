@@ -1,0 +1,1 @@
+var e={},t=[`Varsayılan kart`,`Ayrıntılar sayfasına atlamak için tıklayın`,`Kartı etkinleştir`,`Geçerli sayfaya karşılık gelen kart`];export{e as js,t as pug};

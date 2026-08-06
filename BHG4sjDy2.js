@@ -1,0 +1,1 @@
+var e={},t=[`Ez egy rel-en keresztül másolt szöveg`,`Az előtag szövege alapértelmezés szerint másolva`];export{e as js,t as pug};

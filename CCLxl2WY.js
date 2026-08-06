@@ -1,0 +1,4 @@
+var e={},t=[`Ekstremni minimalizam`,`WebC.site se fokusira na izgradnju čistih, laganih front-end komponenti bez opterećenja tokom rada.
+Oslanjajući se na moderne js i css karakteristike, on predstavlja beskonačne mogućnosti sa rafiniranim kodom.`,`Nova paradigma za razvoj front-enda u eri umjetne inteligencije`,`U potpunosti prihvatiti umjetnu inteligenciju, razvojni tok dizajniran za automatsko kodiranje.
+Pravila koda se vremenom usavršavaju, omogućavajući modelu velikog jezika da smanji troškove i poveća efikasnost za vas.`,`Elegantne vizuelne norme`,`Vizuelni estetski dizajn uključuje izuzetne efekte mikro pokreta i teksturu mat stakla.
+Bijela baza, jednostavna i čista, pomaže vam da stvorite visokokvalitetno iskustvo interakcije s aplikacijom.`];export{e as js,t as pug};

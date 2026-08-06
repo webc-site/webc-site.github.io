@@ -1,0 +1,1 @@
+var e=[`Cod dilysu yn ymddangos...`,`Dilysiad yn llwyddiannus`,`Wedi'i ganslo`],t=[`Prawf cod dilysu`];export{e as js,t as pug};

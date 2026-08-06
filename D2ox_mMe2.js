@@ -1,0 +1,1 @@
+var e={},t=[`Vaakasuuntainen virtuaalinen vierityspalkki`,`Pystysuuntainen virtuaalinen vierityspalkki`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Bertsioa`,`1.0.0`,`protokoloa`,`MIT`,`estatua`,`normala`];export{e as js,t as pug};

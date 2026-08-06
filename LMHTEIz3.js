@@ -1,0 +1,1 @@
+var e=[],t=[`veb-sayt nomi`,`Birinchi havola`,`Ikkinchi havola`,`Iltimos, sahifani yuqoriga va pastga aylantiring va yuqori navigatsiya panelining avtomatik siqilishi va ekran effektini ko'ring.`];export{e as js,t as pug};

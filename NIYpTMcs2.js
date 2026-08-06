@@ -1,0 +1,1 @@
+var e=[{"":`Home`,doc:`dokument`,blog:`blog`}],t=[`Il-links jintwerew bil-madum fuq id-desktop u mitwija f'buttuni tal-ikoni fuq il-mowbajl`,`Desktop`,`Wirja tal-madum`,`Terminal mobbli`,`Kollass fil-buttuna tal-ikona, ikklikkja biex tiżżerżaq 'il barra mill-menu tal-ġenb`];export{e as js,t as pug};

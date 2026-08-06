@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`আন্তর্জাতিকীকরণ`,use:`উপাদান ব্যবহার করুন`,npm:`NPM প্যাকেজ প্রকাশ করুন`,dist:`অনলাইন ডিসপ্লে স্টেশন`,bench:`বেঞ্চমার্ক`};export{e as default};

@@ -1,0 +1,1 @@
+var e={},t=[`Default na card`,`I-click upang tumalon sa pahina ng mga detalye`,`I-activate ang card`,`Ang card na naaayon sa kasalukuyang pahina`];export{e as js,t as pug};

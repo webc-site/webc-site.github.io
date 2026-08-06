@@ -1,0 +1,1 @@
+var e=[],t=[`nome do site`,`Vincular um`,`Link dois`,`Role a página para cima e para baixo para observar o colapso automático e o efeito de exibição da barra de navegação superior.`];export{e as js,t as pug};

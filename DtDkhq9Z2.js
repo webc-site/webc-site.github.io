@@ -1,0 +1,1 @@
+var e=[`Tambah ke`],t=[`Butang lalai`,`butang utama`,`butang pautan`,`Butang Ikon (.BtnC)`];export{e as js,t as pug};

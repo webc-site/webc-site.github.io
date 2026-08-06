@@ -1,0 +1,1 @@
+var e=[`Basit açılır katman`,`HTML5 iletişim kutusuna dayalı olarak uygulanan açılır kutu`,`Elbette`],t=[`Kutuyu açmak için beni tıklayın`];export{e as js,t as pug};

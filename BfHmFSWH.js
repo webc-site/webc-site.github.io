@@ -1,0 +1,1 @@
+var e=[`Jidher kodiċi ta' verifika...`,`Verifika b'suċċess`,`Ikkanċellat`],t=[`Kodiċi ta' verifika tat-test`];export{e as js,t as pug};

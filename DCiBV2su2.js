@@ -1,0 +1,1 @@
+var e=[`Lumilitaw ang verification code...`,`Matagumpay ang pag-verify`,`Kinansela`],t=[`Subukan ang verification code`];export{e as js,t as pug};

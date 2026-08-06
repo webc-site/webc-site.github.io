@@ -1,0 +1,1 @@
+var e=[],t=[`ime spletne strani`,`Povezava ena`,`Povezava dva`,`Pomaknite se po strani navzgor in navzdol, da opazujete samodejni strnjeni in prikazni učinek zgornje navigacijske vrstice.`];export{e as js,t as pug};

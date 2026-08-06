@@ -1,0 +1,1 @@
+var e=[`Haen naid syml`,`Blwch naid, wedi'i weithredu yn seiliedig ar ddeialog html5`,`Cadarn`],t=[`Cliciwch fi i pop up Box`];export{e as js,t as pug};

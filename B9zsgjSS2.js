@@ -1,0 +1,1 @@
+var e=[`valodu`,`rādītājs`],t=[`Pašlaik izvēlētā valoda`];export{e as js,t as pug};

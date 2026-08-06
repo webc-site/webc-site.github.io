@@ -1,0 +1,1 @@
+var e=[`Dit is 'n algemene herinneringsboodskap`,`Operasie het misluk, probeer asseblief weer`],t=[`Verdwyntyd (sekondes)`,`Algemene wenke`,`Foutboodskap`];export{e as js,t as pug};

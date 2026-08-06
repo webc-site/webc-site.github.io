@@ -1,0 +1,1 @@
+var e=[`Introduceți numele de utilizator`,`Introduceți parola`],t=[`Încărcare independentă (.Ing)`,`Mască de încărcare pentru trimiterea formularului (.Ing)`,`Conectare la cont`,`nume de utilizator`,`parolă`,`Log in`];export{e as js,t as pug};

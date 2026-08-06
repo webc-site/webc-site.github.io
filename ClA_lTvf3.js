@@ -1,0 +1,1 @@
+var e=[],t=[`alma`,`banan`,`naringi`,`Alma qida maddələri ilə zəngin olan adi bir meyvədir.`,`Banan tropik ərazilərdə geniş şəkildə yetişən dadlı meyvədir.`,`Portağal parlaq rəngdədir, sulu və şirindir, C vitamini ilə zəngindir.`];export{e as js,t as pug};

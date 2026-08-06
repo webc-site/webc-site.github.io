@@ -1,0 +1,1 @@
+var e={},t=[`Standardtilstand (ikke angitt)`,`E-post`,`Standardstatus`];export{e as js,t as pug};

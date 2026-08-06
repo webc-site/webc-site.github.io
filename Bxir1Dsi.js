@@ -1,0 +1,1 @@
+var e=[`Přidat do`],t=[`Výchozí tlačítko`,`hlavní tlačítko`,`tlačítko odkazu`,`Tlačítko ikony (.BtnC)`];export{e as js,t as pug};

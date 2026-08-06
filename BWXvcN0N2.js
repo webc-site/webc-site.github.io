@@ -1,0 +1,1 @@
+var e=[`komponentët`,`përshkruajnë`],t=[`ngarkim`,`të dhëna boshe`,`Ka të dhëna`];export{e as js,t as pug};

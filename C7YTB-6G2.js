@@ -1,0 +1,1 @@
+var e=[],t=[`weboldal neve`,`Link egyet`,`Link kettő`,`Kérjük, görgessen fel és le az oldalon, hogy megfigyelje a felső navigációs sáv automatikus összecsukását és megjelenítését.`];export{e as js,t as pug};

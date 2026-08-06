@@ -1,0 +1,1 @@
+var e=[`Eenvoudige pop-uplaag`,`Pop-upvenster, geïmplementeerd op basis van html5-dialoog`,`Zeker`],t=[`Klik op mij om Box te openen`];export{e as js,t as pug};

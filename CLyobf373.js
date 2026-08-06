@@ -1,0 +1,1 @@
+var e=[],t=[`elma`,`muz`,`mandalina`,`Elma, besin açısından zengin, yaygın bir meyvedir.`,`Muz tropik bölgelerde yaygın olarak yetişen lezzetli bir meyvedir.`,`Portakal parlak renkli, sulu ve tatlıdır ve C vitamini açısından zengindir.`];export{e as js,t as pug};

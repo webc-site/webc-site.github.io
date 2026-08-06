@@ -1,0 +1,1 @@
+var e=[`wika`,`index`],t=[`Kasalukuyang napiling wika`];export{e as js,t as pug};

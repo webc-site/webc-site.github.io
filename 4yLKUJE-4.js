@@ -1,0 +1,1 @@
+var e=[`Detta är ett allmänt påminnelsemeddelande`,`Åtgärden misslyckades, försök igen`],t=[`Tid för försvinnande (sekunder)`,`Allmänna tips`,`Felmeddelande`];export{e as js,t as pug};

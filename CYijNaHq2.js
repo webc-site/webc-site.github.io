@@ -1,0 +1,1 @@
+var e={},t=[`Carte par défaut`,`Cliquez pour accéder à la page de détails`,`Activer la carte`,`La fiche correspondant à la page courante`];export{e as js,t as pug};

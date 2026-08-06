@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`internacionalizacija`,use:`Naudokite komponentus`,npm:`Paskelbkite NPM paketą`,dist:`Internetinė rodymo stotis`,bench:`Etalonas`};export{e as default};

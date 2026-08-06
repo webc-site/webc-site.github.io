@@ -1,0 +1,1 @@
+var e=[],t=[`isem il-websajt`,`Link wieħed`,`Rabta tnejn`,`Jekk jogħġbok iscrollja l-paġna 'l fuq u 'l isfel biex tosserva l-kollass awtomatiku u l-effett tal-wiri tal-bar tan-navigazzjoni ta' fuq.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Útgáfa`,`1.0.0`,`siðareglur`,`MIT`,`ríki`,`eðlilegt`];export{e as js,t as pug};

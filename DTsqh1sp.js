@@ -1,0 +1,1 @@
+var e={},t=[`titulná strana`,`užívateľ`,`nastaviť`];export{e as js,t as pug};

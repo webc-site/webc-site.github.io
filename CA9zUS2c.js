@@ -1,0 +1,1 @@
+var e={},t=[`automatinis`,`Tai yra burbulo antgalis`,`Kairė`,`teisingai`,`Žemyn`,`pranašesnis`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`automatike`,`Ky është një tip flluskë`,`Majtas`,`drejtë`,`Poshtë`,`epror`];export{e as js,t as pug};

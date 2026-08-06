@@ -1,0 +1,1 @@
+var e={},t=[`automatesch`,`Dëst ass e Bubble Tipp`,`Lénks`,`riets`,`Down`,`superior`];export{e as js,t as pug};

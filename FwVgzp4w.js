@@ -1,0 +1,1 @@
+var e=[`Ingiza jina la mtumiaji`,`Weka nenosiri`],t=[`Upakiaji wa kujitegemea (.Ing)`,`Fomu ya kupakia kinyago (.Ing)`,`Kuingia kwa akaunti`,`jina la mtumiaji`,`nenosiri`,`Ingia`];export{e as js,t as pug};

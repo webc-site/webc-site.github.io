@@ -1,0 +1,1 @@
+var e=[`言語`,`索引`],t=[`現在選択されている言語`];export{e as js,t as pug};

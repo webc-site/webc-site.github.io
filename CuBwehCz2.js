@@ -1,0 +1,1 @@
+var e=[`Ini adalah pesan pengingat umum`,`Operasi gagal, silakan coba lagi`],t=[`Waktu hilangnya (detik)`,`Kiat umum`,`Pesan kesalahan`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[],t=[`afal`,`banana`,`tangerine`,`Mae afal yn ffrwyth cyffredin sy'n llawn maetholion.`,`Mae banana yn ffrwyth blasus sy'n cael ei dyfu'n eang mewn ardaloedd trofannol.`,`Mae orennau yn llachar o ran lliw, yn llawn sudd a melys, ac yn gyfoethog mewn fitamin C.`];export{e as js,t as pug};

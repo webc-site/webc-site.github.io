@@ -1,0 +1,1 @@
+var e=[`Camada pop-up simples`,`Caixa pop-up, implementada com base na caixa de diálogo HTML5`,`Claro`],t=[`Clique em mim para abrir a caixa`];export{e as js,t as pug};

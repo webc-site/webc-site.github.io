@@ -1,0 +1,1 @@
+var e=[`Lapisan pop timbul mudah`,`Kotak timbul, dilaksanakan berdasarkan dialog html5`,`pasti`],t=[`Klik saya untuk muncul Kotak`];export{e as js,t as pug};

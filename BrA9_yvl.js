@@ -1,0 +1,1 @@
+var e=[`Ipasok ang username`,`Ipasok ang password`],t=[`Independent loading (.Ing)`,`Pag-load ng mask ng pagsusumite ng form (.Ing)`,`Pag-login sa account`,`username`,`password`,`Mag-log in`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Cartão padrão`,`Clique para ir para a página de detalhes`,`Ativar cartão`,`O cartão correspondente à página atual`];export{e as js,t as pug};

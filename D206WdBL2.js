@@ -1,0 +1,1 @@
+var e=[`Saff popup sempliċi`,`Kaxxa pop-up, implimentata bbażata fuq dialog html5`,`Żgur`],t=[`Ikklikkja lili biex pop up Kaxxa`];export{e as js,t as pug};

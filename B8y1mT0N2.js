@@ -1,0 +1,1 @@
+var e=[`Objeví se ověřovací kód...`,`Ověření proběhlo úspěšně`,`Zrušeno`],t=[`Testovací ověřovací kód`];export{e as js,t as pug};

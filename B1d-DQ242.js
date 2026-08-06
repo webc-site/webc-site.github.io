@@ -1,0 +1,1 @@
+var e=[{"":`Faqja kryesore`,doc:`dokument`,blog:`blog`}],t=[`Lidhjet shfaqen me pllaka në desktop dhe palosen në butona ikonash në celular`,`Desktop`,`Shfaqja e pllakave`,`Terminali celular`,`Palos në butonin e ikonës, kliko për të rrëshqitur nga menyja anësore`];export{e as js,t as pug};

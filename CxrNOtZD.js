@@ -1,0 +1,1 @@
+var e={},t=[`pirmas puslapis`,`naudotojas`,`nustatyti`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`virun Säit`,`Benotzer`,`opsetzen`];export{e as js,t as pug};

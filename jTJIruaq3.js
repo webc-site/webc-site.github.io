@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`ຄວາມເປັນສາກົນ`,use:`ໃຊ້ອົງປະກອບ`,npm:`ເຜີຍແຜ່ແພັກເກດ NPM`,dist:`ສະຖານີສະແດງອອນໄລນ໌`,bench:`ການປະເມີນມາດຕະຖານ`};export{e as default};

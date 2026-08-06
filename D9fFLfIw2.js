@@ -1,0 +1,1 @@
+var e={},t=[`Gorizontal virtual aylantirish paneli`,`Vertikal virtual aylantirish paneli`];export{e as js,t as pug};

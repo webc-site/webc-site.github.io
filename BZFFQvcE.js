@@ -1,0 +1,1 @@
+var e=[`Nambari ya uthibitishaji inajitokeza...`,`Uthibitishaji umefaulu`,`Imeghairiwa`],t=[`Jaribu nambari ya kuthibitisha`];export{e as js,t as pug};

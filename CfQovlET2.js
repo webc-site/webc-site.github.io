@@ -1,0 +1,1 @@
+var e={},t=[`Horisontale virtuele skuifbalk`,`Vertikale virtuele skuifbalk`];export{e as js,t as pug};

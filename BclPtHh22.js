@@ -1,0 +1,1 @@
+var e=[`Strat pop-up simplu`,`Casetă pop-up, implementată pe baza dialogului HTML5`,`Sigur`],t=[`Faceți clic pe mine pentru a afișa caseta`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Paprastas iššokantis sluoksnis`,`Iššokantis langas, įdiegtas remiantis html5 dialogo langu`,`Žinoma`],t=[`Spustelėkite mane, kad atidarytumėte langelį`];export{e as js,t as pug};

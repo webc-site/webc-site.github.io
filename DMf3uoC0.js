@@ -1,0 +1,1 @@
+var e={},t=[`Hiki ni kipande cha maandishi kilichonakiliwa kupitia rel`,`Maandishi ya kiambishi awali yamenakiliwa kwa chaguomsingi`];export{e as js,t as pug};

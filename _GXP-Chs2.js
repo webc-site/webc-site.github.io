@@ -1,0 +1,4 @@
+var e={},t=[`Ekstremalus minimalizmas`,`WebC.site sutelkia dėmesį į grynų, lengvų priekinių komponentų kūrimą be vykdymo naštos.
+Remdamasis šiuolaikinėmis js ir css funkcijomis, jis suteikia begalines galimybes su patobulintu kodu.`,`Nauja AI eros front-end kūrimo paradigma`,`Visiškai pritaikykite dirbtinį intelektą, kūrimo srautą, skirtą automatizuotam kodavimui.
+Kodo taisyklės laikui bėgant tobulėja, todėl didelės kalbos modelis leidžia sumažinti išlaidas ir padidinti efektyvumą.`,`Elegantiškos vizualinės normos`,`Vaizdinis estetinis dizainas apima išskirtinius mikrojudesio efektus ir matinio stiklo tekstūrą.
+Baltas pagrindas, paprastas ir grynas, padedantis sukurti aukštos kokybės programų sąveikos patirtį.`];export{e as js,t as pug};

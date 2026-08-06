@@ -1,0 +1,1 @@
+var e=[`íhlutir`,`lýsa`],t=[`hleðsla`,`tóm gögn`,`Það eru gögn`];export{e as js,t as pug};

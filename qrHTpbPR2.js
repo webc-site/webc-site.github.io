@@ -1,0 +1,1 @@
+var e={},t=[`Horisontaalne virtuaalne kerimisriba`,`Vertikaalne virtuaalne kerimisriba`];export{e as js,t as pug};

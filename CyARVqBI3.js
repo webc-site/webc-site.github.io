@@ -1,0 +1,1 @@
+var e=[],t=[`poma`,`plàtan`,`mandarina`,`La poma és una fruita comuna rica en nutrients.`,`El plàtan és una fruita deliciosa àmpliament cultivada a les zones tropicals.`,`Les taronges són de color brillant, sucoses i dolces, i riques en vitamina C.`];export{e as js,t as pug};

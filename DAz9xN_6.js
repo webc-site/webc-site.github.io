@@ -1,0 +1,1 @@
+var e=[`Lapisan popup sederhana`,`Kotak pop-up, diimplementasikan berdasarkan dialog html5`,`Tentu`],t=[`Klik saya untuk memunculkan Kotak`];export{e as js,t as pug};

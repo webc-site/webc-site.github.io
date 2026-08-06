@@ -1,0 +1,1 @@
+var e=[{"":`Avaleht`,doc:`dokument`,blog:`ajaveebi`}],t=[`Lingid kuvatakse paanituna töölaual ja volditakse mobiilis ikooninuppudeks`,`Töölaud`,`Plaatide väljapanek`,`Mobiilne terminal`,`Ahenda ikooninuppu, klõpsake külgmenüüst välja libistamiseks`];export{e as js,t as pug};

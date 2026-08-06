@@ -1,0 +1,1 @@
+var e=[`alkatrészek`,`leírni`],t=[`terhelés`,`üres adatok`,`Vannak adatok`];export{e as js,t as pug};

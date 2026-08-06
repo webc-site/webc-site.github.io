@@ -1,0 +1,1 @@
+var e=[`To jest ogólne przypomnienie`,`Operacja nie powiodła się. Spróbuj ponownie`],t=[`Czas zniknięcia (sekundy)`,`Ogólne wskazówki`,`Komunikat o błędzie`];export{e as js,t as pug};

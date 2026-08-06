@@ -1,0 +1,1 @@
+var e=[{"":`Hjemmeside`,doc:`dokument`,blog:`blog`}],t=[`Links vises flisebelagt på skrivebordet og foldet til ikonknapper på mobilen`,`Desktop`,`Flise display`,`Mobil terminal`,`Skjul ind i ikonknap, klik for at glide ud af sidemenuen`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Ini ialah sekeping teks yang disalin melalui rel`,`Teks awalan disalin secara lalai`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Futni emrin e përdoruesit`,`Fut fjalëkalimin`],t=[`Ngarkimi i pavarur (. Ing)`,`Maska e ngarkimit të paraqitjes së formularit (. Ing)`,`Hyrja në llogari`,`emri i përdoruesit`,`fjalëkalimin`,`Identifikohu`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Shiriti i lëvizjes virtuale horizontale`,`Shiriti vertikal i lëvizjes virtuale`];export{e as js,t as pug};

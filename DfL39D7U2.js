@@ -1,0 +1,1 @@
+var e=[],t=[`epal`,`pisang`,`tangerine`,`Epal adalah buah biasa yang kaya dengan khasiat.`,`Pisang adalah buah yang lazat ditanam secara meluas di kawasan tropika.`,`Oren berwarna cerah, berair dan manis, serta kaya dengan vitamin C.`];export{e as js,t as pug};

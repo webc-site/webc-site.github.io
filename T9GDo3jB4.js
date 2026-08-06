@@ -1,0 +1,1 @@
+var e=[`To je splošno sporočilo opomnika`,`Operacija ni uspela, poskusite znova`],t=[`Čas izginotja (sekunde)`,`Splošni nasveti`,`Sporočilo o napaki`];export{e as js,t as pug};

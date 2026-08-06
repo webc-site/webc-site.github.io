@@ -1,0 +1,1 @@
+var e=[`vipengele`,`eleza`],t=[`kupakia`,`data tupu`,`Kuna data`];export{e as js,t as pug};

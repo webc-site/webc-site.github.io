@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`អន្តរជាតិ`,use:`ប្រើសមាសធាតុ`,npm:`បោះពុម្ពកញ្ចប់ NPM`,dist:`ស្ថានីយ៍បង្ហាញតាមអ៊ីនធឺណិត`,bench:`គោល`};export{e as default};

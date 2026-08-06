@@ -1,0 +1,1 @@
+var e={},t=[`automatisch`,`Dies ist ein Blasentipp`,`Links`,`Rechts`,`Runter`,`Vorgesetzter`];export{e as js,t as pug};

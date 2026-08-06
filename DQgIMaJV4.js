@@ -1,0 +1,1 @@
+var e=[],t=[`mela`,`banana`,`mandarino`,`La mela è un frutto comune ricco di sostanze nutritive.`,`La banana è un frutto delizioso ampiamente coltivato nelle zone tropicali.`,`Le arance sono di colore brillante, succose e dolci e ricche di vitamina C.`];export{e as js,t as pug};

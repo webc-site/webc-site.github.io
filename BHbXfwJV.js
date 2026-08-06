@@ -1,0 +1,1 @@
+var e={},t=[`moja kwa moja`,`Hiki ni kidokezo cha Bubble`,`Kushoto`,`kulia`,`Chini`,`mkuu`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[{"":`Page d'accueil`,doc:`document`,blog:`bloguer`}],t=[`Les liens sont affichés en mosaïque sur le bureau et repliés en boutons d'icônes sur le mobile`,`Bureau`,`Affichage des tuiles`,`Terminal mobile`,`Réduire en bouton icône, cliquez pour faire glisser le menu latéral`];export{e as js,t as pug};

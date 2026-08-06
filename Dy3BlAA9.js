@@ -1,0 +1,1 @@
+var e={},t=[`Barra di scorrimento virtuale orizzontale`,`Barra di scorrimento virtuale verticale`];export{e as js,t as pug};

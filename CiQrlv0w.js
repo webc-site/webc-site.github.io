@@ -1,0 +1,1 @@
+var e=[`komponendid`,`kirjeldada`],t=[`laadimine`,`tühjad andmed`,`Andmed on olemas`];export{e as js,t as pug};

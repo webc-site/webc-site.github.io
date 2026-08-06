@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`uluslararasılaşma`,use:`Bileşenleri kullan`,npm:`NPM paketini yayınla`,dist:`Çevrimiçi gösterim istasyonu`,bench:`Kalite testi`};export{e as default};

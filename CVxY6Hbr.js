@@ -1,0 +1,1 @@
+var e=[`Lớp bật lên đơn giản`,`Hộp bật lên, được triển khai dựa trên hộp thoại html5`,`Chắc chắn`],t=[`Bấm vào tôi để bật lên Hộp`];export{e as js,t as pug};

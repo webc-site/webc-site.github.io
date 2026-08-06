@@ -1,0 +1,1 @@
+var e={},t=[`Egoera lehenetsia (ez da sartu)`,`Posta elektronikoa`,`Egoera lehenetsia`];export{e as js,t as pug};

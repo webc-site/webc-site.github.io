@@ -1,0 +1,1 @@
+var e=[],t=[`nama laman web`,`Pautan satu`,`Pautan dua`,`Sila tatal halaman ke atas dan ke bawah untuk melihat keruntuhan automatik dan kesan paparan bar navigasi atas.`];export{e as js,t as pug};

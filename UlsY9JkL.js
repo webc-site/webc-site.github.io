@@ -1,0 +1,4 @@
+var e={},t=[`Minimalism extrem`,`WebC.site se concentrează pe construirea de componente front-end pure, ușoare, fără sarcină de rulare.
+Bazându-se pe caracteristicile moderne js și css, acesta prezintă posibilități infinite cu cod rafinat.`,`O nouă paradigmă pentru dezvoltarea front-end în era AI`,`Îmbrățișați pe deplin inteligența artificială, un flux de dezvoltare conceput pentru codificare automată.
+Regulile de cod sunt rafinate în timp, permițând modelului de limbă mare să reducă costurile și să crească eficiența pentru dvs.`,`Norme vizuale elegante`,`Designul estetic vizual încorporează efecte rafinate de micro-mișcare și textura de sticlă mată.
+Bază albă, simplă și pură, ajutându-vă să creați o experiență de interacțiune de înaltă calitate a aplicațiilor.`];export{e as js,t as pug};

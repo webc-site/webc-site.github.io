@@ -1,0 +1,1 @@
+var e={"2026/publish":[`Onlayn keçin`,`hekayə başlayır`,`2026-07-27`]};export{e as default};

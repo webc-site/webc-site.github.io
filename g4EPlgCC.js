@@ -1,0 +1,1 @@
+var e=[`Zobrazí sa overovací kód...`,`Overenie bolo úspešné`,`Zrušené`],t=[`Testovací overovací kód`];export{e as js,t as pug};

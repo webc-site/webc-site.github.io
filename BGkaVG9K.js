@@ -1,0 +1,1 @@
+var e=[`Učitava se verifikacioni kod…`,`Верификација је успела`,`Отказано`],t=[`Тестирајте верификациони код`];export{e as js,t as pug};

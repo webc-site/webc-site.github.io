@@ -1,0 +1,1 @@
+var e=[`Tai bendras priminimo pranešimas`,`Operacija nepavyko, bandykite dar kartą`],t=[`Dingimo laikas (sekundėmis)`,`Bendrieji patarimai`,`Klaidos pranešimas`];export{e as js,t as pug};

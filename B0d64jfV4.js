@@ -1,0 +1,1 @@
+var e=[`Toto je obecná připomínka`,`Operace se nezdařila, zkuste to prosím znovu`],t=[`Doba zmizení (sekundy)`,`Obecné tipy`,`Chybová zpráva`];export{e as js,t as pug};

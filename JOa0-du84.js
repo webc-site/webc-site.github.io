@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`internaţionalizare`,use:`Folosiți componente`,npm:`Publicați pachetul NPM`,dist:`Stație de afișare online`,bench:`Evaluare de referință`};export{e as default};

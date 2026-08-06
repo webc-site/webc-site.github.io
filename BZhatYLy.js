@@ -1,0 +1,1 @@
+var e={},t=[`Dette er et tekststykke som er kopiert via rel`,`Prefikstekst kopiert som standard`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Shfaqet kodi i verifikimit...`,`Verifikimi i suksesshëm`,`Anuluar`],t=[`Provoni kodin e verifikimit`];export{e as js,t as pug};

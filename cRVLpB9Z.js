@@ -1,0 +1,4 @@
+var e={},t=[`Äärmuslik minimalism`,`WebC.site keskendub puhaste, kergete esiotsa komponentide loomisele ilma käitusaja koormuseta.
+Tuginedes kaasaegsetele js-i ja css-i funktsioonidele, pakub see täiustatud koodiga lõpmatuid võimalusi.`,`Uus paradigma esiotsa arendamiseks tehisintellekti ajastul`,`Võtke täielikult omaks tehisintellekt – automatiseeritud kodeerimiseks loodud arendusvoog.
+Koodireegleid täiustatakse aja jooksul, mis võimaldab suurel keelemudelil teie jaoks kulusid vähendada ja tõhusust suurendada.`,`Elegantsed visuaalsed normid`,`Visuaalne esteetiline disain sisaldab suurepäraseid mikro-liikumise efekte ja mattklaasi tekstuuri.
+Valge alus, lihtne ja puhas, mis aitab teil luua kvaliteetse rakenduste interaktsiooni kogemuse.`];export{e as js,t as pug};

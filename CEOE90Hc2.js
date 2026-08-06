@@ -1,0 +1,4 @@
+var e={},t=[`Ejemplo de título`,`Marco de cristal líquido.
+Marco de tarjeta con fondo de vidrio esmerilado y gradiente de borde.
+Adecuado para quienes buscan la estética del diseño.
+`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Mã xác minh bật lên...`,`Xác minh thành công`,`Đã hủy`],t=[`Kiểm tra mã xác minh`];export{e as js,t as pug};

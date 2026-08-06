@@ -1,0 +1,1 @@
+var e=[`Verification code pops up...`,`Verification successful`,`Canceled`],t=[`Test verification code`];export{e as js,t as pug};

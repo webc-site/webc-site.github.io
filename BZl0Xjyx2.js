@@ -1,0 +1,1 @@
+var e=[`Hau abisu-mezu orokorra da`,`Eragiketak huts egin du. Saiatu berriro`],t=[`Desagertzeko denbora (segundoak)`,`Aholku orokorrak`,`Errore mezua`];export{e as js,t as pug};

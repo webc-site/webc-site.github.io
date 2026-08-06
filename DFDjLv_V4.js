@@ -1,0 +1,1 @@
+var e=[],t=[`pomme`,`banane`,`Tangerine`,`La pomme est un fruit commun riche en nutriments.`,`La banane est un fruit délicieux largement cultivé dans les régions tropicales.`,`Les oranges sont de couleur vive, juteuses et sucrées et riches en vitamine C.`];export{e as js,t as pug};

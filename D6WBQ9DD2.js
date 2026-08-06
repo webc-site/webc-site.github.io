@@ -1,0 +1,1 @@
+var e={},t=[`Þetta er texti sem afritaður er í gegnum rel`,`Forskeyti texti afritaður sjálfgefið`];export{e as js,t as pug};

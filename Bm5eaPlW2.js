@@ -1,0 +1,4 @@
+var e={},t=[`Mikill naumhyggja`,`WebC.site einbeitir sér að því að smíða hreina, létta framhliða íhluti án keyrslutíma.
+Með því að treysta á nútíma js og css eiginleika býður það upp á óendanlega möguleika með fágaðri kóða.`,`Ný hugmyndafræði fyrir framhliðarþróun á gervigreindartímanum`,`Faðma gervigreind að fullu, þróunarflæði hannað fyrir sjálfvirka kóðun.
+Kóðareglur eru betrumbættar með tímanum, sem gerir stóra tungumálamódelinu kleift að draga úr kostnaði og auka skilvirkni fyrir þig.`,`Glæsileg sjónræn viðmið`,`Sjónræn fagurfræðileg hönnun felur í sér stórkostlega örhreyfingaráhrif og matt gleráferð.
+Hvítur grunnur, einfaldur og hreinn, sem hjálpar þér að búa til hágæða samskiptaupplifun forrita.`];export{e as js,t as pug};

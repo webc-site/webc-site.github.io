@@ -1,0 +1,1 @@
+var e={},t=[`Tämä on tekstinpätkä, joka on kopioitu rel`,`Etuliiteteksti kopioitu oletuksena`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[{"":`Halaman rumah`,doc:`dokumen`,blog:`blog`}],t=[`Tautan ditampilkan dalam ubin di desktop dan dilipat menjadi tombol ikon di ponsel`,`Desktop`,`Tampilan ubin`,`Terminal seluler`,`Ciutkan ke dalam tombol ikon, klik untuk menggeser menu samping`];export{e as js,t as pug};

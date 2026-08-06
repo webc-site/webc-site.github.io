@@ -1,0 +1,1 @@
+var e=[],t=[`nama situs web`,`Tautan satu`,`Tautan dua`,`Silakan gulir halaman ke atas dan ke bawah untuk mengamati penciutan otomatis dan efek tampilan bilah navigasi atas.`];export{e as js,t as pug};

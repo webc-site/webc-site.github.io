@@ -1,0 +1,1 @@
+var e=[],t=[`mollë`,`banane`,`mandarina`,`Molla është një frut i zakonshëm që është i pasur me lëndë ushqyese.`,`Banania është një frut i shijshëm që rritet gjerësisht në zonat tropikale.`,`Portokallet janë me ngjyrë të ndezur, të lëngshëm dhe të ëmbël dhe të pasur me vitaminë C.`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Apareix el codi de verificació...`,`Verificació correcta`,`Cancel·lat`],t=[`Codi de verificació de prova`];export{e as js,t as pug};

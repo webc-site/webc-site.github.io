@@ -1,0 +1,1 @@
+var e=[],t=[`nome del sito web`,`Collegane uno`,`Collega due`,`Si prega di scorrere la pagina su e giù per osservare la compressione automatica e l'effetto di visualizzazione della barra di navigazione superiore.`];export{e as js,t as pug};

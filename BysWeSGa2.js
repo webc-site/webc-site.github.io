@@ -1,0 +1,1 @@
+var e=[{"":`Pagrindinis puslapis`,doc:`dokumentas`,blog:`dienoraštį`}],t=[`Nuorodos darbalaukyje rodomos išklotinės, o mobiliajame telefone sulankstytos į piktogramų mygtukus`,`Darbalaukis`,`Plytelių ekranas`,`Mobilus terminalas`,`Sutraukti į piktogramos mygtuką, spustelėkite, kad išstumtumėte šoninį meniu`];export{e as js,t as pug};

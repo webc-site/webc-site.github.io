@@ -1,0 +1,1 @@
+var e={},t=[`etusivulle`,`käyttäjä`,`perustaa`];export{e as js,t as pug};

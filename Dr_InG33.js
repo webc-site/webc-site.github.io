@@ -1,0 +1,1 @@
+var e=[`Capa emerxente sinxela`,`Caixa emerxente, implementada en base ao diálogo HTML5`,`Claro`],t=[`Fai clic en min para abrir a caixa`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Ovo je opća poruka podsjetnika`,`Operacija nije uspjela, pokušajte ponovo`],t=[`Vrijeme nestanka (sekunde)`,`Opći savjeti`,`Poruka o pogrešci`];export{e as js,t as pug};

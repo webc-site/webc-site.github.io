@@ -1,0 +1,4 @@
+var e={},t=[`Minimalizëm ekstrem`,`WebC.site fokusohet në ndërtimin e komponentëve të pastër dhe të lehtë të pjesës së përparme, pa ngarkesë të kohës së funksionimit.
+Duke u mbështetur në veçoritë moderne js dhe css, ai paraqet mundësi të pafundme me kod të rafinuar.`,`Një paradigmë e re për zhvillimin e frontit në epokën e AI`,`Përqafoni plotësisht inteligjencën artificiale, një rrjedhë zhvillimi e krijuar për kodim të automatizuar.
+Rregullat e kodit rafinohen me kalimin e kohës, duke lejuar modelin e madh të gjuhës të reduktojë kostot dhe të rrisë efikasitetin për ju.`,`Norma vizuale elegante`,`Dizajni estetik vizual përfshin efekte të shkëlqyera mikro-lëvizje dhe teksturë xhami të ngrirë.
+Baza e bardhë, e thjeshtë dhe e pastër, që ju ndihmon të krijoni një përvojë ndërveprimi me aplikacionin me cilësi të lartë.`];export{e as js,t as pug};

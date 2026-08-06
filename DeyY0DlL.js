@@ -1,0 +1,1 @@
+var e={},t=[`Kertu standar`,`Klik kanggo mlumpat menyang kaca rincian`,`Aktifake kertu`,`Kertu sing cocog karo kaca saiki`];export{e as js,t as pug};

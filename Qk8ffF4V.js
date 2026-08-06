@@ -1,0 +1,1 @@
+var e=[`cydrannau`,`disgrifio`],t=[`llwytho`,`data gwag`,`Mae data`];export{e as js,t as pug};

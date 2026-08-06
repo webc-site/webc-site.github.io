@@ -1,0 +1,1 @@
+var e={},t=[`Iki minangka potongan teks sing disalin liwat rel`,`Teks awalan disalin kanthi gawan`];export{e as js,t as pug};

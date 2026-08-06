@@ -1,0 +1,1 @@
+var e={},t=[`See on rel-i kaudu kopeeritud tekstiosa`,`Vaikimisi kopeeritud eesliide tekst`];export{e as js,t as pug};

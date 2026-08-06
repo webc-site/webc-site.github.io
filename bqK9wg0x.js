@@ -1,0 +1,1 @@
+var e=[`Dodaj u`],t=[`Zadano dugme`,`glavno dugme`,`dugme za vezu`,`Ikona Dugme (.BtnC)`];export{e as js,t as pug};

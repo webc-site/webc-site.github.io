@@ -1,0 +1,1 @@
+var e=[`komponen`,`huraikan`],t=[`memuatkan`,`data kosong`,`Terdapat data`];export{e as js,t as pug};

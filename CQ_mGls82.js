@@ -1,0 +1,1 @@
+var e={},t=[`automatico`,`Questo è un suggerimento a bolle`,`Sinistra`,`Giusto`,`Giù`,`superiore`];export{e as js,t as pug};

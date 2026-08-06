@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`internazzjonalizzazzjoni`,use:`Uża komponenti`,npm:`Ippubblika pakkett NPM`,dist:`Stazzjon tal-wiri onlajn`,bench:`Valutazzjoni tal-bażi`};export{e as default};

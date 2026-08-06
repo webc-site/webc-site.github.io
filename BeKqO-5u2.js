@@ -1,0 +1,1 @@
+var e={"2026/publish":[`Iet tiešsaistē`,`stāsts sākas`,`2026-07-27`]};export{e as default};

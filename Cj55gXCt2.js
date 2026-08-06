@@ -1,0 +1,1 @@
+var e={},t=[`Sjálfgefið ástand (ekki slegið inn)`,`Tölvupóstur`,`Sjálfgefin staða`];export{e as js,t as pug};

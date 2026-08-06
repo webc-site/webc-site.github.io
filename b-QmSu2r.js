@@ -1,0 +1,1 @@
+var e=[`Tiek parādīts verifikācijas kods...`,`Verifikācija sekmīga`,`Atcelts`],t=[`Pārbaudiet verifikācijas kodu`];export{e as js,t as pug};

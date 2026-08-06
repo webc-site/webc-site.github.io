@@ -1,0 +1,1 @@
+var e=[`Ievadiet lietotājvārdu`,`Ievadiet paroli`],t=[`Neatkarīga ielāde (.Ing)`,`Veidlapas iesniegšanas ielādes maska ​​(.Ing)`,`Konta pieteikšanās`,`lietotājvārds`,`parole`,`Piesakieties`];export{e as js,t as pug};

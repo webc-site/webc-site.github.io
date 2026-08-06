@@ -1,0 +1,1 @@
+var e=[`Jednoduchá vyskakovací vrstva`,`Pop-up box, implementovaný na základě dialogu html5`,`Jasně`],t=[`Kliknutím na mě se zobrazí okno Box`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Bu rel orqali ko'chirilgan matnning bir qismi`,`Prefiks matni sukut bo'yicha nusxalanadi`];export{e as js,t as pug};

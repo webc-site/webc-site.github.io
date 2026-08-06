@@ -1,0 +1,1 @@
+var e=[`Tambah menyang`],t=[`Tombol standar`,`tombol utama`,`tombol link`,`Tombol Ikon (.BtnC)`];export{e as js,t as pug};

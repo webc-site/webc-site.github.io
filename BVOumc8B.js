@@ -1,0 +1,1 @@
+var e=[`Thêm vào`],t=[`Nút mặc định`,`nút chính`,`nút liên kết`,`Nút biểu tượng (.BtnC)`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`Predvolená karta`,`Kliknutím prejdete na stránku s podrobnosťami`,`Aktivovať kartu`,`Karta zodpovedajúca aktuálnej stránke`];export{e as js,t as pug};

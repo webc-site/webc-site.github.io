@@ -1,0 +1,1 @@
+var e={},t=[`automātiski`,`Šis ir burbuļa gals`,`Pa kreisi`,`pareizi`,`Uz leju`,`pārāks`];export{e as js,t as pug};

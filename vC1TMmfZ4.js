@@ -1,0 +1,1 @@
+var e=[],t=[`mazá`,`plátano`,`mandarina`,`A mazá é unha froita común que é rica en nutrientes.`,`O plátano é unha froita deliciosa que se cultiva en zonas tropicais.`,`As laranxas son de cor brillante, suculentas e doces e ricas en vitamina C.`];export{e as js,t as pug};

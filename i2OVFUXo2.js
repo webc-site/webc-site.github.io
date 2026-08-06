@@ -1,0 +1,1 @@
+var e={},t=[`Fersiwn`,`1.0.0`,`protocol`,`MIT`,`gwladwriaeth`,`arferol`];export{e as js,t as pug};

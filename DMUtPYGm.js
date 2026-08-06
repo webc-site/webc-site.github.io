@@ -1,0 +1,4 @@
+var e={},t=[`Äärimmäistä minimalismia`,`WebC.site keskittyy puhtaiden, kevyiden käyttöliittymäkomponenttien rakentamiseen ilman ajonaikaista taakkaa.
+Se perustuu nykyaikaisiin js- ja css-ominaisuuksiin, ja se tarjoaa äärettömät mahdollisuudet hienostuneella koodilla.`,`Uusi paradigma etupään kehitykselle AI-aikakaudella`,`Ota täysin käyttöön tekoäly, automaattiseen koodaukseen suunniteltu kehityskulku.
+Koodisäännöt tarkentuvat ajan myötä, mikä mahdollistaa laajan kielimallin alentaa kustannuksia ja lisätä tehokkuutta puolestasi.`,`Tyylikkäät visuaaliset normit`,`Visuaalinen esteettinen muotoilu sisältää hienot mikroliikeefektit ja himmeä lasikuvio.
+Valkoinen pohja, yksinkertainen ja puhdas, auttaa sinua luomaan korkealaatuisen sovellusvuorovaikutuskokemuksen.`];export{e as js,t as pug};

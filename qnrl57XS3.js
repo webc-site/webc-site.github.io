@@ -1,0 +1,1 @@
+var e=[],t=[`appel`,`piesang`,`mandaryn`,`Appel is 'n algemene vrug wat ryk is aan voedingstowwe.`,`Piesang is 'n heerlike vrug wat wyd in tropiese gebiede verbou word.`,`Lemoene is helder van kleur, sappig en soet, en ryk aan vitamien C.`];export{e as js,t as pug};

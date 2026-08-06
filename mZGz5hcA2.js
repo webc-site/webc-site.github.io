@@ -1,0 +1,1 @@
+var e={},t=[`Verstek kaart`,`Klik om na die besonderhedebladsy te spring`,`Aktiveer kaart`,`Die kaart wat ooreenstem met die huidige bladsy`];export{e as js,t as pug};

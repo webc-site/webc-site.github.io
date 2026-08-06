@@ -1,0 +1,1 @@
+var e={},t=[`otomatis`,`Ini adalah tip gelembung`,`Kiri`,`Kanan`,`Turun`,`unggul`];export{e as js,t as pug};

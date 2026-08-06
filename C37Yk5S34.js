@@ -1,0 +1,1 @@
+var e=[`Kini usa ka kinatibuk-ang mensahe sa pahinumdom`,`Napakyas ang operasyon, palihog sulayi pag-usab`],t=[`Oras sa pagkawala (segundo)`,`Kinatibuk-ang mga tip`,`Mensahe sa sayop`];export{e as js,t as pug};

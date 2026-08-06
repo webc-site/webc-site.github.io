@@ -1,0 +1,1 @@
+var e=[{"":`Bosh sahifa`,doc:`hujjat`,blog:`blog`}],t=[`Havolalar ish stolida plitka bilan qoplangan va mobil telefonda piktogramma tugmalariga yig'ilgan holda ko'rsatiladi`,`Ish stoli`,`Plitka ekrani`,`Mobil terminal`,`Belgi tugmachasiga yig'ing, yon menyudan siljitish uchun bosing`];export{e as js,t as pug};

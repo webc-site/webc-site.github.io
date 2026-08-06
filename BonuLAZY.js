@@ -1,0 +1,1 @@
+var e=[`tungumál`,`vísitölu`],t=[`Núverandi valið tungumál`];export{e as js,t as pug};

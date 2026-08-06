@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`umiędzynarodowienie`,use:`Użyj komponentów`,npm:`Opublikuj pakiet NPM`,dist:`Stacja wystawowa online`,bench:`Reper`};export{e as default};

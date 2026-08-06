@@ -1,0 +1,1 @@
+var e=[`aggiungere a`],t=[`Pulsante predefinito`,`pulsante principale`,`pulsante di collegamento`,`Pulsante icona (.BtnC)`];export{e as js,t as pug};

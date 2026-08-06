@@ -1,0 +1,1 @@
+var e=[`Simpelt popup-lag`,`Pop-up boks, implementeret baseret på html5 dialog`,`Sikker`],t=[`Klik på mig for at pop up-boksen`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`automatski`,`Ovo je mjehurić vrh`,`lijevo`,`u pravu`,`Dole`,`superioran`];export{e as js,t as pug};

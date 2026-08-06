@@ -1,0 +1,1 @@
+var e={},t=[`Bilah gulir virtual horizontal`,`Bilah gulir virtual vertikal`];export{e as js,t as pug};

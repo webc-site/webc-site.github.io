@@ -1,0 +1,1 @@
+var e=[`Tasdiqlash kodi ochiladi...`,`Tasdiqlash muvaffaqiyatli`,`Bekor qilingan`],t=[`Tekshirish kodi`];export{e as js,t as pug};

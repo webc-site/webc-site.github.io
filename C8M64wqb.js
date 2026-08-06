@@ -1,0 +1,1 @@
+var e=[`Verifieringskod dyker upp...`,`Verifieringen lyckades`,`Avbruten`],t=[`Testa verifieringskod`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[],t=[`nazwa strony internetowej`,`Połącz jeden`,`Połącz dwa`,`Przewiń stronę w górę i w dół, aby zaobserwować automatyczne zwijanie i efekt wyświetlania górnego paska nawigacyjnego.`];export{e as js,t as pug};

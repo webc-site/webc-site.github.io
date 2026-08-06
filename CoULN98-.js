@@ -1,0 +1,1 @@
+var e={},t=[`automatisch`,`Dit is een bellentip`,`Links`,`rechts`,`Omlaag`,`superieur`];export{e as js,t as pug};

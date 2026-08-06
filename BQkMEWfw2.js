@@ -1,0 +1,1 @@
+var e=[`bileşenler`,`betimlemek`],t=[`yükleniyor`,`boş veri`,`Veri var`];export{e as js,t as pug};

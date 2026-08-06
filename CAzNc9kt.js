@@ -1,0 +1,1 @@
+var e=[`Sartu erabiltzaile-izena`,`Sartu pasahitza`],t=[`Karga independentea (.Ing)`,`Inprimakia bidaltzeko kargatzeko maskara (.Ing)`,`Kontuaren saioa`,`erabiltzaile-izena`,`pasahitza`,`Hasi saioa`];export{e as js,t as pug};

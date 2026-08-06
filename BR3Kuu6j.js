@@ -1,0 +1,1 @@
+var e=[{"":`Ana sayfa`,doc:`belge`,blog:`blog`}],t=[`Bağlantılar masaüstünde döşemeli olarak görüntülenir ve mobil cihazda simge düğmelerine katlanır`,`Masaüstü`,`Döşeme ekranı`,`Mobil terminal`,`Simgeye daralt düğmesi, yan menüyü kaydırmak için tıklayın`];export{e as js,t as pug};

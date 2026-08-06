@@ -1,0 +1,1 @@
+var e={},t=[`automat`,`Acesta este un vârf de bule`,`Stânga`,`corect`,`Jos`,`superior`];export{e as js,t as pug};

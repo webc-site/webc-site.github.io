@@ -1,0 +1,1 @@
+var e=[`Ilmub kinnituskood...`,`Kinnitamine õnnestus`,`Tühistatud`],t=[`Testige kinnituskoodi`];export{e as js,t as pug};

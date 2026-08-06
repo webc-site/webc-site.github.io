@@ -1,0 +1,1 @@
+var e=[`Staðfestingarkóði birtist...`,`Staðfesting tókst`,`Hætt við`],t=[`Próf staðfestingarkóði`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e=[`Egyszerű felugró réteg`,`Előugró ablak, a html5 párbeszédpanel alapján megvalósítva`,`Persze`],t=[`Kattintson rám a Box felbukkanásához`];export{e as js,t as pug};

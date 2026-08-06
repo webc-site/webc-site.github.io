@@ -1,0 +1,1 @@
+var e=[],t=[`veb sayt adı`,`Birini bağlayın`,`Bağlantı iki`,`Lütfən, yuxarı naviqasiya panelinin avtomatik çökməsini və ekran effektini müşahidə etmək üçün səhifəni yuxarı və aşağı sürüşdürün.`];export{e as js,t as pug};

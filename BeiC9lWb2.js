@@ -1,0 +1,1 @@
+var e=[],t=[`webgunearen izena`,`Lotura bat`,`Lotura bi`,`Mesedez, joan orrialdea gora eta behera goiko nabigazio-barraren kolapso automatikoa eta bistaratzeko efektua ikusteko.`];export{e as js,t as pug};

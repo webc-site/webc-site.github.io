@@ -1,0 +1,1 @@
+var e=[`Adaugă la`],t=[`Buton implicit`,`butonul principal`,`butonul link`,`Buton pictogramă (.BtnC)`];export{e as js,t as pug};

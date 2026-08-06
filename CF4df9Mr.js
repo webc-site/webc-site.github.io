@@ -1,0 +1,1 @@
+var e=[{"":`Početna stranica`,doc:`dokument`,blog:`blog`}],t=[`Veze su prikazane popločane na radnoj površini i presavijene u gumbe ikona na mobilnom telefonu`,`Radna površina`,`Prikaz pločica`,`Mobilni terminal`,`Gumb Sažmi u ikonu, kliknite da biste izvukli bočni izbornik`];export{e as js,t as pug};

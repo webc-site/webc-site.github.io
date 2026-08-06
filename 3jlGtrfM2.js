@@ -1,0 +1,1 @@
+var e=[`Hozzáadás`],t=[`Alapértelmezett gomb`,`fő gomb`,`link gomb`,`Ikon gomb (.BtnC)`];export{e as js,t as pug};

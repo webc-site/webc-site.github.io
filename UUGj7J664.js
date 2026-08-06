@@ -1,0 +1,1 @@
+var e={README:`WebC.site`,i18n:`ජාත්යන්තරකරණය`,use:`සංරචක භාවිතා කරන්න`,npm:`NPM පැකේජය ප්‍රකාශ කරන්න`,dist:`මාර්ගගත සංදර්ශක ස්ථානය`,bench:`මූලික ඇගයීම`};export{e as default};

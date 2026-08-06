@@ -1,0 +1,1 @@
+var e=[`komponente`,`beskryf`],t=[`laai`,`leë data`,`Daar is data`];export{e as js,t as pug};

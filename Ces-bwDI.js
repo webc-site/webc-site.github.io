@@ -1,0 +1,1 @@
+var e={},t=[`Kad lalai`,`Klik untuk melompat ke halaman butiran`,`Aktifkan kad`,`Kad yang sepadan dengan halaman semasa`];export{e as js,t as pug};

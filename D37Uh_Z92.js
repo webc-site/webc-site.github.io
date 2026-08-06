@@ -1,0 +1,1 @@
+var e={},t=[`ukurasa wa mbele`,`mtumiaji`,`weka`];export{e as js,t as pug};

@@ -1,0 +1,1 @@
+var e={},t=[`oldingi sahifa`,`foydalanuvchi`,`sozlash; o'rnatish`];export{e as js,t as pug};

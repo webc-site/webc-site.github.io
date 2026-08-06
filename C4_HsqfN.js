@@ -1,0 +1,1 @@
+var e=[`Yksinkertainen ponnahdusikkuna`,`Ponnahdusikkuna, toteutettu html5-valintaikkunan perusteella`,`Varma`],t=[`Napsauta minua avataksesi Boxin`];export{e as js,t as pug};

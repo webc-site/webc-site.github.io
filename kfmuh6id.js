@@ -1,0 +1,1 @@
+var e=[`Pojawia się kod weryfikacyjny...`,`Weryfikacja przebiegła pomyślnie`,`Odwołany`],t=[`Przetestuj kod weryfikacyjny`];export{e as js,t as pug};

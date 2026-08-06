@@ -1,0 +1,1 @@
+var e={},t=[`front page`,`gumagamit`,`set up`];export{e as js,t as pug};
